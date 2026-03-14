@@ -1,0 +1,115 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/recipe.schema.json",
+  "title": "Recipe",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "meal_type",
+    "servings",
+    "prep_time_minutes",
+    "ingredients",
+    "nutrition_per_serving"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$",
+      "description": "Stable recipe identifier in snake_case."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Human-readable recipe name in Russian."
+    },
+    "meal_type": {
+      "type": "string",
+      "enum": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "snack"
+      ]
+    },
+    "servings": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "prep_time_minutes": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "ingredients": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "name",
+          "amount",
+          "unit"
+        ],
+        "properties": {
+          "key": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$",
+            "description": "Optional stable ingredient key; use it for aggregation when present."
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "amount": {
+            "type": "number",
+            "exclusiveMinimum": 0
+          },
+          "unit": {
+            "type": "string",
+            "enum": [
+              "g",
+              "kg",
+              "ml",
+              "l",
+              "pcs"
+            ]
+          },
+          "pantry": {
+            "type": "boolean",
+            "description": "Optional flag for pantry staples usually available at home."
+          }
+        }
+      }
+    },
+    "nutrition_per_serving": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "calories",
+        "protein_g",
+        "fat_g",
+        "carbs_g"
+      ],
+      "properties": {
+        "calories": {
+          "type": "number",
+          "minimum": 0
+        },
+        "protein_g": {
+          "type": "number",
+          "minimum": 0
+        },
+        "fat_g": {
+          "type": "number",
+          "minimum": 0
+        },
+        "carbs_g": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    }
+  }
+}

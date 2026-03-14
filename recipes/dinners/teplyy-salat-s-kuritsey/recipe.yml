@@ -1,0 +1,32 @@
+id: teplyy_salat_kuritsa
+name: Тёплый салат с курицей
+meal_type: dinner
+servings: 1
+prep_time_minutes: 15
+ingredients:
+- key: chicken_breast
+  name: Куриное филе
+  amount: 200
+  unit: g
+- key: lettuce
+  name: Листья салата
+  amount: 60
+  unit: g
+- key: cucumber
+  name: Огурец
+  amount: 120
+  unit: g
+- key: tomato
+  name: Помидор
+  amount: 120
+  unit: g
+- key: olive_oil
+  name: Оливковое масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 350
+  protein_g: 40
+  fat_g: 16
+  carbs_g: 10

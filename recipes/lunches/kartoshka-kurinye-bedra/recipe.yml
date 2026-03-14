@@ -1,0 +1,28 @@
+id: kartoshka_kurinye_bedra
+name: Картошка с куриными бёдрами
+meal_type: lunch
+servings: 3
+prep_time_minutes: 40
+ingredients:
+- key: chicken_thighs
+  name: Куриные бёдра
+  amount: 600
+  unit: g
+- key: potato
+  name: Картофель
+  amount: 800
+  unit: g
+- key: onion
+  name: Лук
+  amount: 120
+  unit: g
+- key: olive_oil
+  name: Оливковое масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 650
+  protein_g: 42
+  fat_g: 25
+  carbs_g: 60

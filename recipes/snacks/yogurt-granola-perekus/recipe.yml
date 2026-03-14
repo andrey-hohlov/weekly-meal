@@ -1,0 +1,23 @@
+id: yogurt_granola_perekus
+name: Йогурт с гранолой (перекус)
+meal_type: snack
+servings: 1
+prep_time_minutes: 2
+ingredients:
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 150
+    unit: g
+  - key: granola
+    name: Гранола
+    amount: 25
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 50
+    unit: g
+nutrition_per_serving:
+  calories: 260
+  protein_g: 16
+  fat_g: 7
+  carbs_g: 32

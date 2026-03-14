@@ -1,0 +1,32 @@
+id: pasta_boloneze
+name: Паста болоньезе
+meal_type: lunch
+servings: 3
+prep_time_minutes: 25
+ingredients:
+- key: minced_beef
+  name: Фарш говяжий
+  amount: 500
+  unit: g
+- key: pasta
+  name: Паста
+  amount: 300
+  unit: g
+- key: tomato_sauce
+  name: Томатный соус
+  amount: 400
+  unit: g
+- key: onion
+  name: Лук
+  amount: 120
+  unit: g
+- key: olive_oil
+  name: Оливковое масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 700
+  protein_g: 40
+  fat_g: 25
+  carbs_g: 75

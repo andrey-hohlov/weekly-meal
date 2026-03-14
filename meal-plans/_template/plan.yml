@@ -1,0 +1,119 @@
+days:
+  - day: monday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: tvorog_yagody_perekus
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    dinner:
+      recipe_id: omlet_losos
+      servings: 1
+
+  - day: tuesday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: banan_arakhisovaya_pasta
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: tost_losos
+      servings: 1
+    dinner:
+      recipe_id: omlet_losos
+      servings: 1
+
+  - day: wednesday
+    breakfast:
+      recipe_id: yaytsa_i_tost
+      servings: 1
+    snack_1:
+      recipe_id: yogurt_granola_perekus
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: banan_arakhisovaya_pasta
+      servings: 1
+    dinner:
+      recipe_id: omlet_losos
+      servings: 1
+
+  - day: thursday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: yogurt_granola_perekus
+      servings: 1
+    lunch:
+      recipe_id: pasta_boloneze
+      servings: 1
+    snack_2:
+      recipe_id: kefir_i_frukt
+      servings: 1
+    dinner:
+      recipe_id: kuritsa_ovoshchi_skovoroda
+      servings: 1
+
+  - day: friday
+    breakfast:
+      recipe_id: yaytsa_i_tost
+      servings: 1
+    snack_1:
+      recipe_id: yogurt_granola_perekus
+      servings: 1
+    lunch:
+      recipe_id: pasta_boloneze
+      servings: 1
+    snack_2:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    dinner:
+      recipe_id: kuritsa_ovoshchi_skovoroda
+      servings: 1
+
+  - day: saturday
+    breakfast:
+      recipe_id: ovsyanka_s_bananom
+      servings: 1
+    snack_1:
+      recipe_id: tost_losos
+      servings: 1
+    lunch:
+      recipe_id: pasta_boloneze
+      servings: 1
+    snack_2:
+      recipe_id: yogurt_granola_perekus
+      servings: 1
+    dinner:
+      recipe_id: losos_ovoshchi
+      servings: 1
+
+  - day: sunday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: yogurt_granola_perekus
+      servings: 1
+    lunch:
+      recipe_id: grechka_indeyka
+      servings: 1
+    snack_2:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    dinner:
+      recipe_id: losos_ovoshchi
+      servings: 1

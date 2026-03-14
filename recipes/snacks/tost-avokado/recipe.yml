@@ -1,0 +1,28 @@
+id: tost_avokado
+name: Тост с авокадо
+meal_type: snack
+servings: 1
+prep_time_minutes: 5
+ingredients:
+  - key: bread_wholegrain
+    name: Хлеб цельнозерновой
+    amount: 50
+    unit: g
+  - key: avocado
+    name: Авокадо
+    amount: 70
+    unit: g
+  - key: tomato
+    name: Помидор
+    amount: 80
+    unit: g
+  - key: salt
+    name: Соль
+    amount: 1
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 250
+  protein_g: 7
+  fat_g: 11
+  carbs_g: 30

@@ -1,0 +1,33 @@
+id: kuritsa_ovoshchi_skovoroda
+name: Курица с овощами на сковороде
+meal_type: dinner
+servings: 2
+prep_time_minutes: 20
+ingredients:
+- key: chicken_breast
+  name: Куриное филе
+  amount: 300
+  unit: g
+- key: bell_pepper
+  name: Болгарский перец
+  amount: 120
+  unit: g
+- key: zucchini
+  name: Кабачок
+  amount: 150
+  unit: g
+- key: soy_sauce
+  name: Соевый соус
+  amount: 15
+  unit: ml
+  pantry: true
+- key: vegetable_oil
+  name: Растительное масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 380
+  protein_g: 45
+  fat_g: 14
+  carbs_g: 12

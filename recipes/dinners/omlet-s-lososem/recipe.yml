@@ -1,0 +1,32 @@
+id: omlet_losos
+name: Омлет с лососем
+meal_type: dinner
+servings: 1
+prep_time_minutes: 10
+ingredients:
+- key: eggs
+  name: Яйца
+  amount: 3
+  unit: pcs
+- key: salmon_lightly_salted
+  name: Слабосолёный лосось
+  amount: 60
+  unit: g
+- key: cream_cheese
+  name: Творожный сыр
+  amount: 30
+  unit: g
+- key: greens
+  name: Зелень
+  amount: 10
+  unit: g
+- key: olive_oil
+  name: Оливковое масло
+  amount: 5
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 450
+  protein_g: 33
+  fat_g: 30
+  carbs_g: 5

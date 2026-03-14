@@ -1,0 +1,19 @@
+id: yabloko_orekhi
+name: Яблоко и орехи
+meal_type: snack
+servings: 1
+prep_time_minutes: 3
+ingredients:
+  - key: apple
+    name: Яблоко
+    amount: 180
+    unit: g
+  - key: nuts
+    name: Орехи
+    amount: 20
+    unit: g
+nutrition_per_serving:
+  calories: 220
+  protein_g: 4
+  fat_g: 13
+  carbs_g: 24

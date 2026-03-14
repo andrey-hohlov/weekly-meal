@@ -1,0 +1,24 @@
+id: greek_yogurt_yagody
+name: Греческий йогурт с ягодами
+meal_type: snack
+servings: 1
+prep_time_minutes: 2
+ingredients:
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 170
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 80
+    unit: g
+  - key: honey
+    name: Мёд
+    amount: 5
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 170
+  protein_g: 17
+  fat_g: 4
+  carbs_g: 18

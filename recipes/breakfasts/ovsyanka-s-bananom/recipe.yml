@@ -1,0 +1,28 @@
+id: ovsyanka_s_bananom
+name: Овсянка с бананом
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 5
+ingredients:
+  - key: oats
+    name: Овсяные хлопья
+    amount: 60
+    unit: g
+  - key: milk_lactose_free
+    name: Молоко безлактозное
+    amount: 200
+    unit: ml
+  - key: banana
+    name: Банан
+    amount: 100
+    unit: g
+  - key: peanut_butter
+    name: Арахисовая паста
+    amount: 15
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 480
+  protein_g: 18
+  fat_g: 16
+  carbs_g: 65

@@ -1,0 +1,18 @@
+{
+  "yaml.schemas": {
+    "./schemas/recipe.schema.json": ["recipes/**/recipe.yml", "recipes/**/recipe.yaml"],
+    "./schemas/meal-plan.schema.json": [
+      "meal-plans/*.yml",
+      "meal-plans/*.yaml",
+      "meal-plans/**/plan.yml",
+      "meal-plans/**/plan.yaml"
+    ]
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.markdownlint": "explicit"
+  }
+}

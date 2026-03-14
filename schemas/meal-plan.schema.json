@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/schemas/meal-plan.schema.json",
+  "title": "MealPlan",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "days"
+  ],
+  "properties": {
+    "days": {
+      "type": "array",
+      "minItems": 7,
+      "maxItems": 7,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "day",
+          "breakfast",
+          "lunch",
+          "dinner",
+          "snack"
+        ],
+        "properties": {
+          "day": {
+            "type": "string",
+            "enum": [
+              "monday",
+              "tuesday",
+              "wednesday",
+              "thursday",
+              "friday",
+              "saturday",
+              "sunday"
+            ]
+          },
+          "breakfast": {
+            "$ref": "#/$defs/mealRef"
+          },
+          "lunch": {
+            "$ref": "#/$defs/mealRef"
+          },
+          "dinner": {
+            "$ref": "#/$defs/mealRef"
+          },
+          "snack": {
+            "$ref": "#/$defs/mealRef"
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "mealRef": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "recipe_id",
+        "servings"
+      ],
+      "properties": {
+        "recipe_id": {
+          "type": "string",
+          "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$"
+        },
+        "servings": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    }
+  }
+}

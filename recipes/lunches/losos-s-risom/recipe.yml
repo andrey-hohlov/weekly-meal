@@ -1,0 +1,28 @@
+id: losos_s_risom
+name: Лосось с рисом
+meal_type: lunch
+servings: 2
+prep_time_minutes: 20
+ingredients:
+- key: salmon
+  name: Филе лосося
+  amount: 300
+  unit: g
+- key: rice
+  name: Рис
+  amount: 160
+  unit: g
+- key: lemon
+  name: Лимон
+  amount: 50
+  unit: g
+- key: olive_oil
+  name: Оливковое масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 600
+  protein_g: 42
+  fat_g: 25
+  carbs_g: 55

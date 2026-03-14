@@ -1,0 +1,24 @@
+id: yaytsa_vkrutuyu_ogurets
+name: Яйца вкрутую и огурец
+meal_type: snack
+servings: 1
+prep_time_minutes: 10
+ingredients:
+  - key: eggs
+    name: Яйца
+    amount: 2
+    unit: pcs
+  - key: cucumber
+    name: Огурец
+    amount: 150
+    unit: g
+  - key: salt
+    name: Соль
+    amount: 1
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 180
+  protein_g: 13
+  fat_g: 10
+  carbs_g: 6

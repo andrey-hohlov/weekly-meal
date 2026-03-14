@@ -1,0 +1,32 @@
+id: grechka_indeyka
+name: Гречка с индейкой
+meal_type: lunch
+servings: 3
+prep_time_minutes: 25
+ingredients:
+- key: buckwheat
+  name: Гречка
+  amount: 240
+  unit: g
+- key: turkey_minced
+  name: Фарш индейки
+  amount: 500
+  unit: g
+- key: carrot
+  name: Морковь
+  amount: 120
+  unit: g
+- key: onion
+  name: Лук
+  amount: 120
+  unit: g
+- key: vegetable_oil
+  name: Растительное масло
+  amount: 10
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 640
+  protein_g: 46
+  fat_g: 20
+  carbs_g: 60

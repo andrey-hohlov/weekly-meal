@@ -1,0 +1,28 @@
+id: yogurt_i_granola
+name: Йогурт с гранолой
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 2
+ingredients:
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 200
+    unit: g
+  - key: granola
+    name: Гранола
+    amount: 50
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 70
+    unit: g
+  - key: honey
+    name: Мёд
+    amount: 10
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 450
+  protein_g: 26
+  fat_g: 12
+  carbs_g: 60

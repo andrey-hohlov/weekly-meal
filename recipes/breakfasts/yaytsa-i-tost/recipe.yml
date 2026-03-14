@@ -1,0 +1,32 @@
+id: yaytsa_i_tost
+name: Яйца и тост
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 10
+ingredients:
+  - key: eggs
+    name: Яйца
+    amount: 3
+    unit: pcs
+  - key: bread_wholegrain
+    name: Хлеб цельнозерновой
+    amount: 80
+    unit: g
+  - key: cheese_hard
+    name: Сыр твёрдый
+    amount: 30
+    unit: g
+  - key: tomato
+    name: Помидор
+    amount: 100
+    unit: g
+  - key: oil_cooking
+    name: Масло для жарки
+    amount: 5
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 540
+  protein_g: 32
+  fat_g: 30
+  carbs_g: 35

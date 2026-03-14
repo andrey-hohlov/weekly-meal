@@ -1,0 +1,31 @@
+id: template_salmon_toasts
+name: "Шаблон: тосты с лососем"
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 7
+ingredients:
+  - key: bread_wholegrain
+    name: Хлеб цельнозерновой
+    amount: 80
+    unit: g
+  - key: salmon_lightly_salted
+    name: Слабосолёный лосось
+    amount: 70
+    unit: g
+  - key: cream_cheese_lactose_free
+    name: Творожный сыр безлактозный
+    amount: 30
+    unit: g
+  - key: avocado
+    name: Авокадо
+    amount: 70
+    unit: g
+  - key: tomato
+    name: Помидор
+    amount: 100
+    unit: g
+nutrition_per_serving:
+  calories: 520
+  protein_g: 28
+  fat_g: 24
+  carbs_g: 40

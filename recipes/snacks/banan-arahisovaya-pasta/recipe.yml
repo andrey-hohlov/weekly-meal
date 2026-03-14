@@ -1,0 +1,20 @@
+id: banan_arakhisovaya_pasta
+name: Банан с арахисовой пастой
+meal_type: snack
+servings: 1
+prep_time_minutes: 2
+ingredients:
+  - key: banana
+    name: Банан
+    amount: 120
+    unit: g
+  - key: peanut_butter
+    name: Арахисовая паста
+    amount: 20
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 230
+  protein_g: 6
+  fat_g: 11
+  carbs_g: 30
