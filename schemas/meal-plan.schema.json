@@ -18,9 +18,10 @@
         "required": [
           "day",
           "breakfast",
+          "snack_1",
           "lunch",
-          "dinner",
-          "snack"
+          "snack_2",
+          "dinner"
         ],
         "properties": {
           "day": {
@@ -38,13 +39,16 @@
           "breakfast": {
             "$ref": "#/$defs/mealRef"
           },
+          "snack_1": {
+            "$ref": "#/$defs/mealRef"
+          },
           "lunch": {
             "$ref": "#/$defs/mealRef"
           },
-          "dinner": {
+          "snack_2": {
             "$ref": "#/$defs/mealRef"
           },
-          "snack": {
+          "dinner": {
             "$ref": "#/$defs/mealRef"
           }
         }

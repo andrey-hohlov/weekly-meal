@@ -12,7 +12,7 @@ ingredients:
     name: Слабосолёный лосось
     amount: 70
     unit: g
-  - key: cream_cheese_lactose_free
+  - key: cream_cheese
     name: Творожный сыр безлактозный
     amount: 30
     unit: g

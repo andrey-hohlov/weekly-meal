@@ -12,8 +12,8 @@ ingredients:
     name: Лосось слабосолёный
     amount: 70
     unit: g
-  - key: cream_cheese_lactose_free
-    name: Сыр творожный безлактозный
+  - key: cream_cheese
+    name: Сыр творожный
     amount: 30
     unit: g
   - key: avocado
