@@ -2,74 +2,74 @@
 
 ## Понедельник
 
-- Завтрак: Тосты с лососем (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
-- Перекус 1: Творог с ягодами (перекус) (`snack/tvorog_yagody_perekus`) — 1 порция, 240 ккал (Б 25 г / Ж 7 г / У 20 г)
-- Обед: Лосось с рисом (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
-- Перекус 2: Тост с лососем (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
-- Ужин: Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
+- Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
+- Перекус 1: [Творог с ягодами (перекус)](../../recipes/snacks/tvorog-yagody-perekus/README.md) (`snack/tvorog_yagody_perekus`) — 1 порция, 240 ккал (Б 25 г / Ж 7 г / У 20 г)
+- Обед: [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
+- Перекус 2: [Тост с лососем](../../recipes/snacks/tost-losos/README.md) (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
+- Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2080 ккал (Б 143 г / Ж 102 г / У 145 г)
 
 ## Вторник
 
-- Завтрак: Тосты с лососем (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
-- Перекус 1: Йогурт с гранолой (перекус) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Обед: Лосось с рисом (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
-- Перекус 2: Тост с лососем (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
-- Ужин: Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
+- Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
+- Перекус 1: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Обед: [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
+- Перекус 2: [Тост с лососем](../../recipes/snacks/tost-losos/README.md) (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
+- Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2100 ккал (Б 134 г / Ж 102 г / У 157 г)
 
 ## Среда
 
-- Завтрак: Яйца и тост (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: Йогурт с гранолой (перекус) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Обед: Паста болоньезе (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
-- Перекус 2: Тост с авокадо (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
-- Ужин: Омлет с лососем (`dinner/omlet_losos`) — 1 порция, 450 ккал (Б 33 г / Ж 30 г / У 5 г)
+- Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
+- Перекус 1: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
+- Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Ужин: [Омлет с лососем](../../recipes/dinners/omlet-s-lososem/README.md) (`dinner/omlet_losos`) — 1 порция, 450 ккал (Б 33 г / Ж 30 г / У 5 г)
 - Итого за день: 2200 ккал (Б 128 г / Ж 103 г / У 177 г)
 
 ## Четверг
 
-- Завтрак: Овсянка с бананом (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
-- Перекус 1: Тост с авокадо (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
-- Обед: Паста болоньезе (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
-- Перекус 2: Йогурт с гранолой (перекус) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Ужин: Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
+- Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
+- Перекус 1: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
+- Перекус 2: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2110 ккал (Б 111 г / Ж 87 г / У 210 г)
 
 ## Пятница
 
-- Завтрак: Яйца и тост (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: Кефир безлактозный и фрукт (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
-- Обед: Паста болоньезе (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
-- Перекус 2: Тост с авокадо (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
-- Ужин: Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
+- Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
+- Перекус 1: [Кефир безлактозный и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
+- Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
+- Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2100 ккал (Б 117 г / Ж 99 г / У 176 г)
 
 ## Суббота
 
-- Завтрак: Яйца и тост (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: Йогурт с гранолой (перекус) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Обед: Картошка с куриными бёдрами (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Перекус 2: Тост с авокадо (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
-- Ужин: Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
+- Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
+- Перекус 1: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
+- Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2120 ккал (Б 127 г / Ж 101 г / У 165 г)
 
 ## Воскресенье
 
-- Завтрак: Яйца и тост (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: Йогурт с гранолой (перекус) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Обед: Картошка с куриными бёдрами (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Перекус 2: Кефир безлактозный и фрукт (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
-- Ужин: Картошка с куриными бёдрами (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
+- Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
+- Перекус 1: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
+- Перекус 2: [Кефир безлактозный и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
+- Ужин: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
 - Итого за день: 2290 ккал (Б 140 г / Ж 92 г / У 215 г)
 
 ## План готовок
 
-- Понедельник: приготовить Лосось с рисом (`lunch/losos_s_risom`) на 2 порции (обеды пн/вт).
-- Среда: приготовить Паста болоньезе (`lunch/pasta_boloneze`) на 3 порции (обеды ср/чт/пт).
-- Суббота: приготовить Картошку с куриными бёдрами (`lunch/kartoshka_kurinye_bedra`) на 3 порции (обед сб, обед вс, ужин вс).
-- Понедельник, вторник, четверг, пятница и суббота: приготовить свежий Омлет с сыром и овощами (`dinner/omlet_syrom_ovoshchami`) по 1 порции.
-- Среда: приготовить свежий Омлет с лососем (`dinner/omlet_losos`) на 1 порцию.
+- Понедельник: приготовить [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) на 2 порции (обеды пн/вт).
+- Среда: приготовить [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) на 3 порции (обеды ср/чт/пт).
+- Суббота: приготовить [Картошку с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) на 3 порции (обед сб, обед вс, ужин вс).
+- Понедельник, вторник, четверг, пятница и суббота: приготовить свежий [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) по 1 порции.
+- Среда: приготовить свежий [Омлет с лососем](../../recipes/dinners/omlet-s-lososem/README.md) (`dinner/omlet_losos`) на 1 порцию.
 - К концу недели готовых порций не остаётся: все batch-блюда полностью распределены по дням.
 - Перекусы можно гибко менять местами, если нужно доесть уже открытые йогурт, ягоды, хлеб, авокадо или кефир.
 
