@@ -4,7 +4,7 @@ days:
       recipe_id: tosty_s_lososem
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: tvorog_yagody_perekus
       servings: 1
     lunch:
       recipe_id: losos_s_risom
@@ -18,7 +18,7 @@ days:
 
   - day: tuesday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: tosty_s_lososem
       servings: 1
     snack_1:
       recipe_id: yogurt_granola_perekus
@@ -27,7 +27,7 @@ days:
       recipe_id: losos_s_risom
       servings: 1
     snack_2:
-      recipe_id: tost_avokado
+      recipe_id: tost_losos
       servings: 1
     dinner:
       recipe_id: omlet_syrom_ovoshchami
@@ -44,10 +44,10 @@ days:
       recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: teplyy_salat_kuritsa
+      recipe_id: omlet_losos
       servings: 1
 
   - day: thursday
@@ -61,7 +61,7 @@ days:
       recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: yogurt_granola_perekus
       servings: 1
     dinner:
       recipe_id: omlet_syrom_ovoshchami
@@ -78,7 +78,7 @@ days:
       recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tost_avokado
       servings: 1
     dinner:
       recipe_id: omlet_syrom_ovoshchami
@@ -86,13 +86,13 @@ days:
 
   - day: saturday
     breakfast:
-      recipe_id: tosty_s_lososem
+      recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: tvorog_yagody_perekus
+      recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
       recipe_id: tost_avokado
@@ -109,11 +109,11 @@ days:
       recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: kefir_i_frukt
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kartoshka_kurinye_bedra
       servings: 1
