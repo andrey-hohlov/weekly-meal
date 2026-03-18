@@ -6,7 +6,7 @@ prep_time_minutes: 20
 ingredients:
 - key: chicken_breast
   name: Куриное филе
-  amount: 300
+  amount: 400
   unit: g
 - key: bell_pepper
   name: Болгарский перец
@@ -27,7 +27,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 380
-  protein_g: 45
-  fat_g: 14
+  calories: 440
+  protein_g: 56
+  fat_g: 15
   carbs_g: 12

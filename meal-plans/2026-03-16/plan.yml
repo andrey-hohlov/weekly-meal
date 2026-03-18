@@ -47,7 +47,7 @@ days:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: omlet_losos
+      recipe_id: omlet_syrom_ovoshchami
       servings: 1
 
   - day: thursday
@@ -64,7 +64,7 @@ days:
       recipe_id: yogurt_granola_perekus
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
 
   - day: friday
@@ -81,12 +81,12 @@ days:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
 
   - day: saturday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
       recipe_id: yogurt_granola_perekus
