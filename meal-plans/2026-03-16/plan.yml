@@ -47,7 +47,7 @@ days:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
 
   - day: thursday
@@ -81,7 +81,7 @@ days:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: kuritsa_ovoshchi_skovoroda
+      recipe_id: omlet_syrom_ovoshchami
       servings: 1
 
   - day: saturday

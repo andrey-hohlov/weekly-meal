@@ -18,7 +18,7 @@ ingredients:
   unit: g
 - key: soy_sauce
   name: Соевый соус
-  amount: 15
+  amount: 30
   unit: ml
   pantry: true
 - key: vegetable_oil
