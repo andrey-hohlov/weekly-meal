@@ -69,7 +69,7 @@ days:
 
   - day: friday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
       recipe_id: kefir_i_frukt
@@ -86,7 +86,7 @@ days:
 
   - day: saturday
     breakfast:
-      recipe_id: ovsyanka_s_bananom
+      recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
       recipe_id: yogurt_granola_perekus
