@@ -39,11 +39,11 @@
 ## Пятница
 
 - Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
-- Перекус 1: [Кефир безлактозный и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
+- Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
 - Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
 - Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
-- Итого за день: 2040 ккал (Б 103 г / Ж 85 г / У 206 г)
+- Итого за день: 2025 ккал (Б 102 г / Ж 85 г / У 204 г)
 
 ## Суббота
 
@@ -59,9 +59,9 @@
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
 - Перекус 1: [Йогурт с гранолой (перекус)](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Перекус 2: [Кефир безлактозный и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 190 ккал (Б 8 г / Ж 5 г / У 28 г)
+- Перекус 2: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
 - Ужин: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Итого за день: 2290 ккал (Б 140 г / Ж 92 г / У 215 г)
+- Итого за день: 2275 ккал (Б 139 г / Ж 92 г / У 213 г)
 
 ## План готовок
 
@@ -116,7 +116,7 @@
 - Ягоды — 100 г
 - Банан — 100 г
 - Молоко безлактозное — 200 мл
-- Кефир безлактозный — 500 мл
+- Кефир — 400 мл
 - Творог безлактозный — 180 г
 - Шпинат или зелень — 40 г
 - Болгарский перец — 120 г
@@ -146,7 +146,7 @@
 - Томатный соус — 400 г
 - Хлеб цельнозерновой — 700 г
 - Йогурт греческий безлактозный — 750 г
-- Кефир безлактозный — 500 мл
+- Кефир — 400 мл
 - Молоко безлактозное — 400 мл
 - Сыр творожный — 100 г
 - Сыр — 160 г
