@@ -48,25 +48,26 @@
 ## Суббота
 
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
 - Обед: Читмил — примерно 1300 ккал
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
-- Итого за день: примерно 2520 ккал
+- Итого за день: примерно 2435 ккал
 
 ## Воскресенье
 
-- Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
+- Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
 - Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Перекус 2: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
-- Ужин: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Итого за день: 2275 ккал (Б 139 г / Ж 92 г / У 213 г)
+- Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Ужин: [Роти с индейкой и сыром](../../recipes/dinners/roti-s-indeykoy-i-syrom/README.md) (`dinner/roti_s_indeykoy_i_syrom`) — 1 порция, 625 ккал (Б 30 г / Ж 35 г / У 44 г)
+- Итого за день: 2265 ккал (Б 113 г / Ж 94 г / У 231 г)
 
 ## План готовок
 
 - Понедельник: приготовить [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) на 2 порции (обеды пн/вт).
 - Среда: приготовить [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) на 3 порции (обеды ср/чт/пт).
-- Выходные: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) остаётся только на обед и ужин воскресенья.
+- Выходные: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) остаётся только на обед воскресенья.
+- Воскресенье: собрать [Роти с индейкой и сыром](../../recipes/dinners/roti-s-indeykoy-i-syrom/README.md) (`dinner/roti_s_indeykoy_i_syrom`) из оставшейся ветчины и роти.
 - Понедельник, вторник, пятница и суббота: приготовить свежий [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) по 1 порции.
 - Среда: приготовить [Курицу с овощами на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) на 2 порции (ужины ср/чт).
 - Перекусы можно гибко менять местами, если нужно доесть уже открытые йогурт, ягоды, хлеб, авокадо или кефир.
@@ -167,7 +168,7 @@
 - Слабосолёный лосось теперь полностью уходит в начале недели: отдельный лососевый ужин в среду убран, поэтому достаточно 240 г на завтраки и перекусы пн/вт.
 - На ужины среды и четверга поставлена [Курица с овощами на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md), чтобы разбить серию омлетов и не оставлять лишнюю готовую еду.
 - Пятничный завтрак заменён на овсянку, чтобы перед выходными разгрузить неделю от яиц.
-- Так как среди lunch-рецептов сейчас только один вариант на 2 порции, для выходных использован 3-порционный lunch-рецепт с распределением на обед сб, обед вс и ужин вс, чтобы не оставлять готовую еду на следующую неделю.
+- Так как в выходные случился читмил и остались готовые продукты, воскресный ужин переведён на [Роти с индейкой и сыром](../../recipes/dinners/roti-s-indeykoy-i-syrom/README.md), а [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) осталась только на обед.
 - Перекусы оставлены гибкими: если после завтраков или ужинов остаются йогурт, ягоды, хлеб, авокадо или кефир, ими можно заменить один из запланированных перекусов без нарушения логики плана.
 - Калорийность недели удерживается около нижней границы целевого диапазона без резких провалов; при необходимости один из перекусов можно усиливать за счёт уже открытых продуктов.
 - Овощной дефолт сохраняется: к обеду ориентир 200–300 г овощей, к ужину 150–250 г.

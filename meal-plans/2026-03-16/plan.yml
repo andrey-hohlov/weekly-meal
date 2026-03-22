@@ -89,7 +89,7 @@ days:
       recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: kefir_i_frukt
       servings: 1
     lunch:
       status: cheat_meal
@@ -102,7 +102,7 @@ days:
 
   - day: sunday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
       recipe_id: yogurt_granola_perekus
@@ -111,8 +111,8 @@ days:
       recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
-      recipe_id: kefir_i_frukt
+      recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: kartoshka_kurinye_bedra
+      recipe_id: roti_s_indeykoy_i_syrom
       servings: 1

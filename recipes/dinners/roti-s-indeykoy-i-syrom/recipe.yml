@@ -1,0 +1,35 @@
+id: roti_s_indeykoy_i_syrom
+name: Роти с индейкой и сыром
+meal_type: dinner
+servings: 1
+prep_time_minutes: 10
+ingredients:
+  - key: roti_flatbread
+    name: Лепёшка роти
+    amount: 1
+    unit: pcs
+  - key: turkey_ham
+    name: Ветчина из индейки
+    amount: 75
+    unit: g
+  - key: cheese
+    name: Сыр
+    amount: 40
+    unit: g
+  - key: cream_cheese
+    name: Творожный сыр
+    amount: 30
+    unit: g
+  - key: tomato
+    name: Помидор
+    amount: 40
+    unit: g
+  - key: greens
+    name: Зелень
+    amount: 10
+    unit: g
+nutrition_per_serving:
+  calories: 625
+  protein_g: 30
+  fat_g: 35
+  carbs_g: 44
