@@ -57,6 +57,19 @@
   },
   "$defs": {
     "mealRef": {
+      "oneOf": [
+        {
+          "$ref": "#/$defs/recipeMeal"
+        },
+        {
+          "$ref": "#/$defs/skippedMeal"
+        },
+        {
+          "$ref": "#/$defs/cheatMeal"
+        }
+      ]
+    },
+    "recipeMeal": {
       "type": "object",
       "additionalProperties": false,
       "required": [
@@ -69,6 +82,35 @@
           "pattern": "^[a-z0-9]+(?:_[a-z0-9]+)*$"
         },
         "servings": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        }
+      }
+    },
+    "skippedMeal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status"
+      ],
+      "properties": {
+        "status": {
+          "const": "skipped"
+        }
+      }
+    },
+    "cheatMeal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "status",
+        "estimated_calories"
+      ],
+      "properties": {
+        "status": {
+          "const": "cheat_meal"
+        },
+        "estimated_calories": {
           "type": "number",
           "exclusiveMinimum": 0
         }

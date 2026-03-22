@@ -92,11 +92,10 @@ days:
       recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: kartoshka_kurinye_bedra
-      servings: 1
+      status: cheat_meal
+      estimated_calories: 1300
     snack_2:
-      recipe_id: tost_avokado
-      servings: 1
+      status: skipped
     dinner:
       recipe_id: omlet_syrom_ovoshchami
       servings: 1

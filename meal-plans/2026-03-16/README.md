@@ -49,10 +49,9 @@
 
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
 - Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
-- Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
-- Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
+- Обед: Читмил — примерно 1300 ккал
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
-- Итого за день: 2120 ккал (Б 127 г / Ж 101 г / У 165 г)
+- Итого за день: примерно 2520 ккал
 
 ## Воскресенье
 
@@ -67,10 +66,9 @@
 
 - Понедельник: приготовить [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) на 2 порции (обеды пн/вт).
 - Среда: приготовить [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) на 3 порции (обеды ср/чт/пт).
-- Суббота: приготовить [Картошку с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) на 3 порции (обед сб, обед вс, ужин вс).
+- Выходные: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) остаётся только на обед и ужин воскресенья.
 - Понедельник, вторник, пятница и суббота: приготовить свежий [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) по 1 порции.
 - Среда: приготовить [Курицу с овощами на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) на 2 порции (ужины ср/чт).
-- К концу недели готовых порций не остаётся: все batch-блюда полностью распределены по дням.
 - Перекусы можно гибко менять местами, если нужно доесть уже открытые йогурт, ягоды, хлеб, авокадо или кефир.
 
 ## План закупок
