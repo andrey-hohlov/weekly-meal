@@ -78,7 +78,7 @@ days:
       recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: tost_avokado
+      recipe_id: yogurt_granola_perekus
       servings: 1
     dinner:
       recipe_id: omlet_syrom_ovoshchami
