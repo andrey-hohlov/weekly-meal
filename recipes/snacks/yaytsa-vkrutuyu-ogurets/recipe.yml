@@ -1,5 +1,5 @@
 id: yaytsa_vkrutuyu_ogurets
-name: Яйца вкрутую и огурец
+name: Яйца вкрутую, огурец и тост
 meal_type: snack
 servings: 1
 prep_time_minutes: 10
@@ -8,6 +8,10 @@ ingredients:
     name: Яйца
     amount: 2
     unit: pcs
+  - key: bread_wholegrain
+    name: Хлеб цельнозерновой
+    amount: 40
+    unit: g
   - key: cucumber
     name: Огурец
     amount: 150
@@ -18,7 +22,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 180
-  protein_g: 13
-  fat_g: 10
-  carbs_g: 6
+  calories: 250
+  protein_g: 16
+  fat_g: 11
+  carbs_g: 20

@@ -14,11 +14,11 @@ ingredients:
     unit: g
   - key: cheese
     name: Сыр
-    amount: 40
+    amount: 30
     unit: g
   - key: cream_cheese
     name: Творожный сыр
-    amount: 30
+    amount: 20
     unit: g
   - key: tomato
     name: Помидор
@@ -29,7 +29,7 @@ ingredients:
     amount: 10
     unit: g
 nutrition_per_serving:
-  calories: 625
-  protein_g: 30
-  fat_g: 35
-  carbs_g: 44
+  calories: 500
+  protein_g: 27
+  fat_g: 20
+  carbs_g: 45

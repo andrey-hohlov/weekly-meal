@@ -1,19 +1,19 @@
 id: kefir_i_frukt
-name: Кефир  и фрукт
+name: Кефир и фрукт
 meal_type: snack
 servings: 1
 prep_time_minutes: 2
 ingredients:
   - key: kefir_lactose_free
     name: Кефир
-    amount: 200
+    amount: 300
     unit: ml
   - key: pear
     name: Груша
     amount: 150
     unit: g
 nutrition_per_serving:
-  calories: 175
-  protein_g: 7
-  fat_g: 5
-  carbs_g: 26
+  calories: 220
+  protein_g: 12
+  fat_g: 6
+  carbs_g: 30

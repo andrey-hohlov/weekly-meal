@@ -113,6 +113,10 @@
         "estimated_calories": {
           "type": "number",
           "exclusiveMinimum": 0
+        },
+        "note": {
+          "type": "string",
+          "minLength": 1
         }
       }
     }

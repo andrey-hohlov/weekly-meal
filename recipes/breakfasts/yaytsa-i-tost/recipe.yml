@@ -14,7 +14,7 @@ ingredients:
     unit: g
   - key: cheese_hard
     name: Сыр твёрдый
-    amount: 30
+    amount: 20
     unit: g
   - key: tomato
     name: Помидор
@@ -26,7 +26,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 540
-  protein_g: 32
-  fat_g: 30
-  carbs_g: 35
+  calories: 520
+  protein_g: 30
+  fat_g: 24
+  carbs_g: 40

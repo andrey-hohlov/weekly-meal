@@ -1,20 +1,24 @@
 id: banan_arakhisovaya_pasta
-name: Банан с арахисовой пастой
+name: Банан с арахисовой пастой и йогуртом
 meal_type: snack
 servings: 1
 prep_time_minutes: 2
 ingredients:
   - key: banana
     name: Банан
-    amount: 120
+    amount: 100
     unit: g
   - key: peanut_butter
     name: Арахисовая паста
-    amount: 20
+    amount: 10
     unit: g
     pantry: true
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 150
+    unit: g
 nutrition_per_serving:
-  calories: 230
-  protein_g: 6
-  fat_g: 11
+  calories: 260
+  protein_g: 17
+  fat_g: 8
   carbs_g: 30

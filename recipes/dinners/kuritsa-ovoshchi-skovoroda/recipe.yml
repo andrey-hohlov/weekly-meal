@@ -1,12 +1,16 @@
 id: kuritsa_ovoshchi_skovoroda
-name: Курица с овощами на сковороде
+name: Курица с овощами и рисом на сковороде
 meal_type: dinner
 servings: 2
 prep_time_minutes: 20
 ingredients:
 - key: chicken_breast
   name: Куриное филе
-  amount: 400
+  amount: 330
+  unit: g
+- key: rice
+  name: Рис
+  amount: 120
   unit: g
 - key: bell_pepper
   name: Болгарский перец
@@ -27,7 +31,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 440
-  protein_g: 56
-  fat_g: 15
-  carbs_g: 12
+  calories: 540
+  protein_g: 48
+  fat_g: 16
+  carbs_g: 40

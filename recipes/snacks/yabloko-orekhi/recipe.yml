@@ -1,19 +1,23 @@
 id: yabloko_orekhi
-name: Яблоко и орехи
+name: Яблоко, орехи и йогурт
 meal_type: snack
 servings: 1
 prep_time_minutes: 3
 ingredients:
   - key: apple
     name: Яблоко
-    amount: 180
+    amount: 150
     unit: g
   - key: nuts
     name: Орехи
-    amount: 20
+    amount: 10
+    unit: g
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 120
     unit: g
 nutrition_per_serving:
-  calories: 220
-  protein_g: 4
-  fat_g: 13
+  calories: 230
+  protein_g: 13
+  fat_g: 9
   carbs_g: 24

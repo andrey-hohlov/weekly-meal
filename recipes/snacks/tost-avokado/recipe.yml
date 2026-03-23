@@ -1,5 +1,5 @@
 id: tost_avokado
-name: Тост с авокадо
+name: Тост с авокадо и яйцом
 meal_type: snack
 servings: 1
 prep_time_minutes: 5
@@ -10,19 +10,23 @@ ingredients:
     unit: g
   - key: avocado
     name: Авокадо
-    amount: 70
+    amount: 50
     unit: g
   - key: tomato
     name: Помидор
     amount: 80
     unit: g
+  - key: eggs
+    name: Яйца
+    amount: 1
+    unit: pcs
   - key: salt
     name: Соль
     amount: 1
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 250
-  protein_g: 7
-  fat_g: 11
-  carbs_g: 30
+  calories: 260
+  protein_g: 14
+  fat_g: 12
+  carbs_g: 25

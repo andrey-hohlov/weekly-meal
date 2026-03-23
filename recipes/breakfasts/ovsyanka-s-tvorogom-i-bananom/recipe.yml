@@ -1,0 +1,37 @@
+id: ovsyanka_s_tvorogom_i_bananom
+name: Овсянка с творогом и бананом
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 5
+ingredients:
+  - key: oats
+    name: Овсяные хлопья
+    amount: 40
+    unit: g
+  - key: curd_lactose_free
+    name: Творог безлактозный
+    amount: 220
+    unit: g
+  - key: banana
+    name: Банан
+    amount: 80
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 70
+    unit: g
+  - key: honey
+    name: Мёд
+    amount: 5
+    unit: g
+    pantry: true
+  - key: peanut_butter
+    name: Арахисовая паста
+    amount: 5
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 520
+  protein_g: 35
+  fat_g: 10
+  carbs_g: 58

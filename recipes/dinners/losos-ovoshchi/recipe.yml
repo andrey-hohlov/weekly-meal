@@ -1,20 +1,24 @@
 id: losos_ovoshchi
-name: Лосось с овощами
+name: Лосось с овощами и картофелем
 meal_type: dinner
 servings: 1
 prep_time_minutes: 15
 ingredients:
 - key: salmon
   name: Филе лосося
-  amount: 180
+  amount: 160
   unit: g
 - key: broccoli
   name: Брокколи
-  amount: 150
+  amount: 200
   unit: g
 - key: zucchini
   name: Кабачок
-  amount: 120
+  amount: 150
+  unit: g
+- key: potato
+  name: Картофель
+  amount: 250
   unit: g
 - key: lemon
   name: Лимон
@@ -22,11 +26,11 @@ ingredients:
   unit: g
 - key: olive_oil
   name: Оливковое масло
-  amount: 8
+  amount: 5
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 420
-  protein_g: 35
-  fat_g: 26
-  carbs_g: 10
+  calories: 560
+  protein_g: 38
+  fat_g: 20
+  carbs_g: 35

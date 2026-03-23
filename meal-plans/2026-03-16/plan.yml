@@ -94,6 +94,7 @@ days:
     lunch:
       status: cheat_meal
       estimated_calories: 1300
+      note: Утка по-пекински и токпокки со свининой и ананасами
     snack_2:
       status: skipped
     dinner:

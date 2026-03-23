@@ -6,15 +6,11 @@ prep_time_minutes: 40
 ingredients:
 - key: chicken_thighs
   name: Куриные бёдра
-  amount: 600
+  amount: 500
   unit: g
 - key: potato
   name: Картофель
-  amount: 800
-  unit: g
-- key: onion
-  name: Лук
-  amount: 120
+  amount: 900
   unit: g
 - key: olive_oil
   name: Оливковое масло
@@ -22,7 +18,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 650
-  protein_g: 42
-  fat_g: 25
+  calories: 620
+  protein_g: 44
+  fat_g: 20
   carbs_g: 60

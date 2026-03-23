@@ -1,36 +1,36 @@
 days:
   - day: monday
     breakfast:
-      recipe_id: tosty_s_lososem
+      recipe_id: tosty_s_vetchinoy_iz_indeyki
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: banan_arakhisovaya_pasta
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tvorog_yagody_perekus
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
       servings: 1
 
   - day: tuesday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: ovsyanka_s_grecheskim_yogurtom
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
       servings: 1
 
   - day: wednesday
@@ -41,30 +41,30 @@ days:
       recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: pasta_boloneze
+      recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tvorog_yagody_perekus
       servings: 1
     dinner:
-      recipe_id: teplyy_salat_kuritsa
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
       servings: 1
 
   - day: thursday
     breakfast:
-      recipe_id: ovsyanka_s_bananom
+      recipe_id: tvorog_i_yagody
       servings: 1
     snack_1:
-      recipe_id: tost_avokado
+      recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: pasta_boloneze
+      recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
 
   - day: friday
@@ -72,48 +72,48 @@ days:
       recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: kefir_i_frukt
+      recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
-      recipe_id: pasta_boloneze
+      recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tvorog_yagody_perekus
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: teplyy_salat_kuritsa
       servings: 1
 
   - day: saturday
     breakfast:
-      recipe_id: tosty_s_lososem
+      recipe_id: ovsyanka_s_grecheskim_yogurtom
       servings: 1
     snack_1:
-      recipe_id: tvorog_yagody_perekus
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
     snack_2:
-      recipe_id: tost_avokado
+      recipe_id: greek_yogurt_yagody
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: forel_s_risom
       servings: 1
 
   - day: sunday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: tvorog_s_bananom_i_yagodami
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     lunch:
-      recipe_id: losos_s_risom
+      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: greek_yogurt_yagody
       servings: 1
     dinner:
-      recipe_id: omlet_syrom_ovoshchami
+      recipe_id: forel_s_risom
       servings: 1

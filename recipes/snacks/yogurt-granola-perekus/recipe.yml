@@ -10,14 +10,14 @@ ingredients:
     unit: g
   - key: granola
     name: Гранола
-    amount: 25
+    amount: 20
     unit: g
   - key: berries
     name: Ягоды
     amount: 50
     unit: g
 nutrition_per_serving:
-  calories: 260
+  calories: 250
   protein_g: 16
   fat_g: 7
-  carbs_g: 32
+  carbs_g: 30

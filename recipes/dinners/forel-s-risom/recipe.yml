@@ -1,0 +1,28 @@
+id: forel_s_risom
+name: Форель с рисом
+meal_type: dinner
+servings: 2
+prep_time_minutes: 20
+ingredients:
+  - key: trout_steak
+    name: Стейк форели
+    amount: 300
+    unit: g
+  - key: rice
+    name: Рис
+    amount: 160
+    unit: g
+  - key: lemon
+    name: Лимон
+    amount: 50
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 10
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 580
+  protein_g: 42
+  fat_g: 22
+  carbs_g: 55

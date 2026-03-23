@@ -49,7 +49,7 @@
 
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
 - Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
-- Обед: Читмил — примерно 1300 ккал
+- Обед: Еда вне репозитория — утка по-пекински и токпокки со свининой и ананасами, примерно 1300 ккал
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: примерно 2435 ккал
 

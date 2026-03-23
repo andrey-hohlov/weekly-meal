@@ -6,7 +6,7 @@ prep_time_minutes: 7
 ingredients:
   - key: bread_wholegrain
     name: Хлеб цельнозерновой
-    amount: 80
+    amount: 100
     unit: g
   - key: salmon_lightly_salted
     name: Лосось слабосолёный
@@ -14,22 +14,18 @@ ingredients:
     unit: g
   - key: cream_cheese
     name: Сыр творожный
-    amount: 30
+    amount: 20
     unit: g
   - key: avocado
     name: Авокадо
-    amount: 70
+    amount: 30
     unit: g
   - key: tomato
     name: Помидор
     amount: 100
     unit: g
-  - key: cheese_hard
-    name: Сыр твёрдый
-    amount: 20
-    unit: g
 nutrition_per_serving:
-  calories: 570
-  protein_g: 31
-  fat_g: 30
-  carbs_g: 40
+  calories: 480
+  protein_g: 30
+  fat_g: 16
+  carbs_g: 48

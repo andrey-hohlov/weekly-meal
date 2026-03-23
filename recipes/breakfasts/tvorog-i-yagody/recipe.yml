@@ -14,15 +14,15 @@ ingredients:
     unit: g
   - key: honey
     name: Мёд
-    amount: 10
+    amount: 5
     unit: g
     pantry: true
   - key: nuts
     name: Орехи
-    amount: 15
+    amount: 10
     unit: g
 nutrition_per_serving:
   calories: 430
   protein_g: 32
-  fat_g: 15
+  fat_g: 12
   carbs_g: 35

@@ -10,18 +10,18 @@ ingredients:
     unit: g
   - key: salmon_lightly_salted
     name: Лосось слабосолёный
-    amount: 50
+    amount: 60
     unit: g
   - key: cream_cheese
     name: Сыр творожный
-    amount: 20
+    amount: 15
     unit: g
   - key: cucumber
     name: Огурец
     amount: 80
     unit: g
 nutrition_per_serving:
-  calories: 250
-  protein_g: 15
-  fat_g: 12
+  calories: 260
+  protein_g: 18
+  fat_g: 10
   carbs_g: 22

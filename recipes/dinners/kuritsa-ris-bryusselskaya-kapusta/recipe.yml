@@ -1,0 +1,41 @@
+id: kuritsa_ris_bryusselskaya_kapusta
+name: Курица с рисом и брюссельской капустой
+meal_type: dinner
+servings: 3
+prep_time_minutes: 30
+ingredients:
+  - key: chicken_breast
+    name: Куриное филе
+    amount: 500
+    unit: g
+  - key: rice
+    name: Рис
+    amount: 150
+    unit: g
+  - key: brussels_sprouts
+    name: Брюссельская капуста
+    amount: 600
+    unit: g
+  - key: tomato_sauce
+    name: Томатный соус
+    amount: 250
+    unit: g
+  - key: onion
+    name: Лук
+    amount: 150
+    unit: g
+  - key: soy_sauce
+    name: Соевый соус
+    amount: 30
+    unit: ml
+    pantry: true
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 15
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 580
+  protein_g: 50
+  fat_g: 14
+  carbs_g: 60
