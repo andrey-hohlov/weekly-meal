@@ -10,7 +10,7 @@ ingredients:
     unit: g
   - key: peanut_butter
     name: Арахисовая паста
-    amount: 10
+    amount: 20
     unit: g
     pantry: true
   - key: greek_yogurt_lactose_free
@@ -18,7 +18,7 @@ ingredients:
     amount: 150
     unit: g
 nutrition_per_serving:
-  calories: 260
-  protein_g: 17
-  fat_g: 8
-  carbs_g: 30
+  calories: 320
+  protein_g: 20
+  fat_g: 13
+  carbs_g: 32

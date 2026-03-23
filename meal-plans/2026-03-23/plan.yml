@@ -13,21 +13,22 @@ days:
       recipe_id: tvorog_yagody_perekus
       servings: 1
     dinner:
-      recipe_id: kuritsa_ris_bryusselskaya_kapusta
-      servings: 1
+      status: cheat_meal
+      estimated_calories: 580
+      note: Голубцы и варёный картофель
 
   - day: tuesday
     breakfast:
-      recipe_id: ovsyanka_s_grecheskim_yogurtom
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
-      recipe_id: yaytsa_vkrutuyu_ogurets
+      recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
       recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
-      recipe_id: tost_avokado
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
       recipe_id: kuritsa_ris_bryusselskaya_kapusta
@@ -44,7 +45,7 @@ days:
       recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: tvorog_yagody_perekus
+      recipe_id: tost_avokado
       servings: 1
     dinner:
       recipe_id: kuritsa_ris_bryusselskaya_kapusta
@@ -55,7 +56,7 @@ days:
       recipe_id: tvorog_i_yagody
       servings: 1
     snack_1:
-      recipe_id: yogurt_granola_perekus
+      recipe_id: kefir_i_frukt
       servings: 1
     lunch:
       recipe_id: grechka_indeyka
@@ -64,7 +65,7 @@ days:
       recipe_id: tost_avokado
       servings: 1
     dinner:
-      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
       servings: 1
 
   - day: friday
@@ -86,16 +87,16 @@ days:
 
   - day: saturday
     breakfast:
-      recipe_id: ovsyanka_s_grecheskim_yogurtom
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
-      recipe_id: yaytsa_vkrutuyu_ogurets
+      recipe_id: tvorog_yagody_perekus
       servings: 1
     lunch:
       recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
     snack_2:
-      recipe_id: greek_yogurt_yagody
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
       recipe_id: forel_s_risom
@@ -103,7 +104,7 @@ days:
 
   - day: sunday
     breakfast:
-      recipe_id: tvorog_s_bananom_i_yagodami
+      recipe_id: tvorog_i_yagody
       servings: 1
     snack_1:
       recipe_id: yaytsa_vkrutuyu_ogurets
@@ -112,7 +113,7 @@ days:
       recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
     snack_2:
-      recipe_id: greek_yogurt_yagody
+      recipe_id: tost_avokado
       servings: 1
     dinner:
       recipe_id: forel_s_risom
