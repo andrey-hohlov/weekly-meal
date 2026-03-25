@@ -1,5 +1,5 @@
-id: yogurt_granola_perekus
-name: Йогурт с гранолой
+id: grecheskiy_yogurt_s_granoloy_i_yagodami
+name: Греческий йогурт с гранолой и ягодами
 meal_type: snack
 servings: 1
 prep_time_minutes: 2
@@ -16,8 +16,13 @@ ingredients:
     name: Ягоды
     amount: 50
     unit: g
+  - key: honey
+    name: Мёд
+    amount: 5
+    unit: g
+    pantry: true
 nutrition_per_serving:
-  calories: 250
+  calories: 260
   protein_g: 16
   fat_g: 7
-  carbs_g: 30
+  carbs_g: 32

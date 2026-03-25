@@ -3,16 +3,16 @@
 ## Понедельник
 
 - Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
-- Перекус 1: [Творог с ягодами (перекус)](../../recipes/snacks/tvorog-yagody-perekus/README.md) (`snack/tvorog_yagody_perekus`) — 1 порция, 240 ккал (Б 25 г / Ж 7 г / У 20 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
 - Перекус 2: [Тост с лососем](../../recipes/snacks/tost-losos/README.md) (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
-- Итого за день: 2080 ккал (Б 143 г / Ж 102 г / У 145 г)
+- Итого за день: 2100 ккал (Б 134 г / Ж 102 г / У 157 г)
 
 ## Вторник
 
 - Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 570 ккал (Б 31 г / Ж 30 г / У 40 г)
-- Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Лосось с рисом](../../recipes/lunches/losos-s-risom/README.md) (`lunch/losos_s_risom`) — 1 порция, 600 ккал (Б 42 г / Ж 25 г / У 55 г)
 - Перекус 2: [Тост с лососем](../../recipes/snacks/tost-losos/README.md) (`snack/tost_losos`) — 1 порция, 250 ккал (Б 15 г / Ж 12 г / У 22 г)
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
@@ -21,7 +21,7 @@
 ## Среда
 
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 540 ккал (Б 32 г / Ж 30 г / У 35 г)
-- Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
 - Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
 - Ужин: [Курица с овощами на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) — 1 порция, 440 ккал (Б 56 г / Ж 15 г / У 12 г)
@@ -32,7 +32,7 @@
 - Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
 - Перекус 1: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
 - Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
-- Перекус 2: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 2: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Ужин: [Курица с овощами на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) — 1 порция, 440 ккал (Б 56 г / Ж 15 г / У 12 г)
 - Итого за день: 2130 ккал (Б 137 г / Ж 74 г / У 214 г)
 
@@ -41,7 +41,7 @@
 - Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
 - Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 175 ккал (Б 7 г / Ж 5 г / У 26 г)
 - Обед: [Паста болоньезе](../../recipes/lunches/pasta-boloneze/README.md) (`lunch/pasta_boloneze`) — 1 порция, 700 ккал (Б 40 г / Ж 25 г / У 75 г)
-- Перекус 2: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 2: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 420 ккал (Б 30 г / Ж 28 г / У 8 г)
 - Итого за день: 2035 ккал (Б 111 г / Ж 81 г / У 206 г)
 
@@ -56,7 +56,7 @@
 ## Воскресенье
 
 - Завтрак: [Овсянка с бананом](../../recipes/breakfasts/ovsyanka-s-bananom/README.md) (`breakfast/ovsyanka_s_bananom`) — 1 порция, 480 ккал (Б 18 г / Ж 16 г / У 65 г)
-- Перекус 1: [Йогурт с гранолой](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/yogurt-granola-perekus/README.md) (`snack/yogurt_granola_perekus`) — 1 порция, 260 ккал (Б 16 г / Ж 7 г / У 32 г)
 - Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 650 ккал (Б 42 г / Ж 25 г / У 60 г)
 - Перекус 2: [Тост с авокадо](../../recipes/snacks/tost-avokado/README.md) (`snack/tost_avokado`) — 1 порция, 250 ккал (Б 7 г / Ж 11 г / У 30 г)
 - Ужин: [Роти с индейкой и сыром](../../recipes/dinners/roti-s-indeykoy-i-syrom/README.md) (`dinner/roti_s_indeykoy_i_syrom`) — 1 порция, 625 ккал (Б 30 г / Ж 35 г / У 44 г)

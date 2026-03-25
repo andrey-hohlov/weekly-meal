@@ -6,27 +6,27 @@ prep_time_minutes: 25
 ingredients:
 - key: buckwheat
   name: Гречка
-  amount: 240
+  amount: 200
   unit: g
 - key: turkey_minced
   name: Фарш индейки
-  amount: 550
+  amount: 450
   unit: g
 - key: carrot
   name: Морковь
-  amount: 120
+  amount: 100
   unit: g
 - key: onion
   name: Лук
-  amount: 120
+  amount: 100
   unit: g
 - key: vegetable_oil
   name: Растительное масло
-  amount: 10
+  amount: 8
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 650
-  protein_g: 48
-  fat_g: 18
-  carbs_g: 65
+  calories: 540
+  protein_g: 40
+  fat_g: 15
+  carbs_g: 54

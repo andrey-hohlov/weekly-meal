@@ -4,7 +4,7 @@ days:
       recipe_id: tosty_s_lososem
       servings: 1
     snack_1:
-      recipe_id: tvorog_yagody_perekus
+      recipe_id: yogurt_granola_perekus
       servings: 1
     lunch:
       recipe_id: losos_s_risom
