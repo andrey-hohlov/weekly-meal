@@ -62,7 +62,7 @@ days:
       recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: yaytsa_vkrutuyu_ogurets
+      recipe_id: banan_arakhisovaya_pasta
       servings: 1
     dinner:
       recipe_id: kuritsa_ris_bryusselskaya_kapusta
@@ -73,13 +73,13 @@ days:
       recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
+      recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     lunch:
       recipe_id: grechka_indeyka
       servings: 1
     snack_2:
-      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
+      recipe_id: banan_arakhisovaya_pasta
       servings: 1
     dinner:
       recipe_id: teplyy_salat_kuritsa
@@ -99,7 +99,7 @@ days:
       recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
-      recipe_id: forel_s_risom
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
 
   - day: sunday
@@ -116,5 +116,5 @@ days:
       recipe_id: yabloko_orekhi
       servings: 1
     dinner:
-      recipe_id: forel_s_risom
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
