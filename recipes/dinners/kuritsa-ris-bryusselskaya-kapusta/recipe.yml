@@ -6,36 +6,36 @@ prep_time_minutes: 30
 ingredients:
   - key: chicken_breast
     name: Куриное филе
-    amount: 500
+    amount: 450
     unit: g
   - key: rice
     name: Рис
-    amount: 150
+    amount: 120
     unit: g
   - key: brussels_sprouts
     name: Брюссельская капуста
-    amount: 600
+    amount: 450
     unit: g
   - key: tomato_sauce
     name: Томатный соус
-    amount: 250
+    amount: 200
     unit: g
   - key: onion
     name: Лук
-    amount: 150
+    amount: 120
     unit: g
   - key: soy_sauce
     name: Соевый соус
-    amount: 30
+    amount: 25
     unit: ml
     pantry: true
   - key: olive_oil
     name: Оливковое масло
-    amount: 15
+    amount: 12
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 580
-  protein_g: 50
-  fat_g: 14
-  carbs_g: 60
+  calories: 470
+  protein_g: 42
+  fat_g: 11
+  carbs_g: 49

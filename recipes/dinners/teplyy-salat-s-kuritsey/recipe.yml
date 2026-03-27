@@ -10,19 +10,19 @@ ingredients:
   unit: g
 - key: potato
   name: Картофель
-  amount: 250
+  amount: 180
   unit: g
 - key: lettuce
   name: Листья салата
   amount: 60
   unit: g
-- key: cucumber
-  name: Огурец
-  amount: 120
-  unit: g
 - key: tomato
   name: Помидор
   amount: 120
+  unit: g
+- key: cream_cheese
+  name: Творожный сыр
+  amount: 30
   unit: g
 - key: olive_oil
   name: Оливковое масло
@@ -30,7 +30,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 520
-  protein_g: 42
-  fat_g: 18
-  carbs_g: 35
+  calories: 510
+  protein_g: 41
+  fat_g: 23
+  carbs_g: 20
