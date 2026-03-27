@@ -13,7 +13,7 @@ ingredients:
     amount: 150
     unit: g
 nutrition_per_serving:
-  calories: 220
-  protein_g: 12
-  fat_g: 6
-  carbs_g: 30
+  calories: 206
+  protein_g: 10
+  fat_g: 3
+  carbs_g: 37

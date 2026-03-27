@@ -26,7 +26,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 420
-  protein_g: 30
-  fat_g: 28
-  carbs_g: 8
+  calories: 424
+  protein_g: 31
+  fat_g: 30
+  carbs_g: 7

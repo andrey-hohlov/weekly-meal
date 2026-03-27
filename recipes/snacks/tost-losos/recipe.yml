@@ -21,7 +21,7 @@ ingredients:
     amount: 80
     unit: g
 nutrition_per_serving:
-  calories: 260
-  protein_g: 18
-  fat_g: 10
-  carbs_g: 22
+  calories: 282
+  protein_g: 19
+  fat_g: 11
+  carbs_g: 25
