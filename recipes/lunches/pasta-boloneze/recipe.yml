@@ -6,27 +6,27 @@ prep_time_minutes: 25
 ingredients:
 - key: minced_beef
   name: Фарш говяжий
-  amount: 500
+  amount: 450
   unit: g
 - key: pasta
   name: Паста
-  amount: 270
+  amount: 243
   unit: g
 - key: tomato_sauce
   name: Томатный соус
-  amount: 350
+  amount: 315
   unit: g
 - key: onion
   name: Лук
-  amount: 120
+  amount: 108
   unit: g
 - key: olive_oil
   name: Оливковое масло
-  amount: 10
+  amount: 9
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 640
-  protein_g: 45
-  fat_g: 18
-  carbs_g: 68
+  calories: 576
+  protein_g: 41
+  fat_g: 16
+  carbs_g: 61
