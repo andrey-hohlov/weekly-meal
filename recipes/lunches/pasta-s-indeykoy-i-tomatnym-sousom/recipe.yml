@@ -14,15 +14,15 @@ ingredients:
     unit: g
   - key: tomato_sauce
     name: Томатный соус
-    amount: 255
+    amount: 250
     unit: g
   - key: onion
     name: Лук
-    amount: 83
+    amount: 100
     unit: g
   - key: olive_oil
     name: Оливковое масло
-    amount: 8
+    amount: 10
     unit: g
     pantry: true
 nutrition_per_serving:

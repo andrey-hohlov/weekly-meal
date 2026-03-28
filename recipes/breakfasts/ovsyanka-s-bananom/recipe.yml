@@ -6,7 +6,7 @@ prep_time_minutes: 5
 ingredients:
   - key: oats
     name: Овсяные хлопья
-    amount: 60
+    amount: 50
     unit: g
   - key: milk_lactose_free
     name: Молоко безлактозное
@@ -22,7 +22,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 491
-  protein_g: 18
-  fat_g: 15
-  carbs_g: 72
+  calories: 454
+  protein_g: 17
+  fat_g: 14
+  carbs_g: 66
