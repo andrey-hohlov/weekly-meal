@@ -6,7 +6,7 @@ prep_time_minutes: 20
 ingredients:
 - key: salmon
   name: Филе лосося
-  amount: 260
+  amount: 300
   unit: g
 - key: rice
   name: Рис
@@ -26,7 +26,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 672
-  protein_g: 35
-  fat_g: 23
+  calories: 714
+  protein_g: 39
+  fat_g: 26
   carbs_g: 77

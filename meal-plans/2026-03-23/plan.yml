@@ -104,7 +104,7 @@ days:
 
   - day: sunday
     breakfast:
-      recipe_id: tosty_s_vetchinoy_iz_indeyki
+      recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
       recipe_id: yaytsa_vkrutuyu_ogurets

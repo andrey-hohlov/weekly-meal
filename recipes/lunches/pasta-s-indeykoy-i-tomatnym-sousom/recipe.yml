@@ -6,11 +6,11 @@ prep_time_minutes: 25
 ingredients:
   - key: turkey_minced
     name: Фарш индейки
-    amount: 450
+    amount: 500
     unit: g
   - key: pasta
     name: Паста
-    amount: 180
+    amount: 200
     unit: g
   - key: tomato_sauce
     name: Томатный соус
@@ -26,7 +26,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 532
-  protein_g: 37
-  fat_g: 19
-  carbs_g: 50
+  calories: 585
+  protein_g: 41
+  fat_g: 21
+  carbs_g: 55

@@ -6,7 +6,7 @@ prep_time_minutes: 20
 ingredients:
 - key: chicken_breast
   name: Куриное филе
-  amount: 330
+  amount: 400
   unit: g
 - key: rice
   name: Рис
@@ -31,7 +31,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 501
-  protein_g: 45
-  fat_g: 9
+  calories: 540
+  protein_g: 53
+  fat_g: 10
   carbs_g: 54

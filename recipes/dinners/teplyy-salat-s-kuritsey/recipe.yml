@@ -6,7 +6,7 @@ prep_time_minutes: 15
 ingredients:
 - key: chicken_breast
   name: Куриное филе
-  amount: 200
+  amount: 250
   unit: g
 - key: potato
   name: Картофель
@@ -30,7 +30,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 567
-  protein_g: 53
-  fat_g: 21
+  calories: 622
+  protein_g: 64
+  fat_g: 22
   carbs_g: 38

@@ -1,0 +1,41 @@
+id: krevetki_s_risom_i_ovoshchami
+name: Креветки с рисом и овощами
+meal_type: lunch
+servings: 3
+prep_time_minutes: 20
+ingredients:
+- key: shrimp
+  name: Креветки очищенные
+  amount: 600
+  unit: g
+- key: rice
+  name: Рис
+  amount: 200
+  unit: g
+- key: broccoli
+  name: Брокколи
+  amount: 300
+  unit: g
+- key: carrot
+  name: Морковь
+  amount: 150
+  unit: g
+- key: onion
+  name: Лук
+  amount: 120
+  unit: g
+- key: soy_sauce
+  name: Соевый соус
+  amount: 30
+  unit: ml
+  pantry: true
+- key: vegetable_oil
+  name: Растительное масло
+  amount: 40
+  unit: g
+  pantry: true
+nutrition_per_serving:
+  calories: 593
+  protein_g: 48
+  fat_g: 16
+  carbs_g: 67
