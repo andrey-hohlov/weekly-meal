@@ -102,7 +102,7 @@ days:
       recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
       servings: 1
     dinner:
-      recipe_id: teplyy_salat_kuritsa
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
     protein_addition:
       name: Изолят на воде
@@ -141,14 +141,21 @@ days:
       recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: kefir_i_frukt
+      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
       servings: 1
     lunch:
       recipe_id: kartoshka_kurinye_bedra
       servings: 1
     snack_2:
-      recipe_id: tost_s_vetchinoy_iz_indeyki
+      recipe_id: kefir_i_frukt
       servings: 1
     dinner:
-      recipe_id: kuritsa_ovoshchi_skovoroda
+      recipe_id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
       servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3

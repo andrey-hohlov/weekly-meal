@@ -6,7 +6,7 @@ prep_time_minutes: 5
 ingredients:
   - key: bread_wholegrain
     name: Хлеб цельнозерновой
-    amount: 50
+    amount: 80
     unit: g
   - key: turkey_ham
     name: Ветчина из индейки
@@ -26,7 +26,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 286
-  protein_g: 27
-  fat_g: 6
-  carbs_g: 29
+  calories: 357
+  protein_g: 30
+  fat_g: 7
+  carbs_g: 42

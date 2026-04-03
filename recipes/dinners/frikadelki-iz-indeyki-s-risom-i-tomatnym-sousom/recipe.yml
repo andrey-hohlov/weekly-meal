@@ -1,0 +1,60 @@
+id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
+name: Фрикадельки из индейки с рисом и томатным соусом
+meal_type: dinner
+servings: 2
+prep_time_minutes: 35
+ingredients:
+  - key: turkey_mince
+    name: Фарш индейки
+    amount: 450
+    unit: g
+  - key: rice
+    name: Рис
+    amount: 110
+    unit: g
+  - key: tomato_sauce
+    name: Томатный соус
+    amount: 220
+    unit: g
+  - key: onion
+    name: Лук
+    amount: 120
+    unit: g
+  - key: carrot
+    name: Морковь
+    amount: 100
+    unit: g
+  - key: eggs
+    name: Яйцо
+    amount: 1
+    unit: pcs
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 5
+    unit: g
+    pantry: true
+  - key: garlic_powder
+    name: Сухой чеснок
+    amount: 3
+    unit: g
+    pantry: true
+  - key: paprika
+    name: Паприка
+    amount: 3
+    unit: g
+    pantry: true
+  - key: salt
+    name: Соль
+    amount: 4
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 2
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 603
+  protein_g: 53
+  fat_g: 16
+  carbs_g: 58

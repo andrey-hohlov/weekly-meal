@@ -2,9 +2,10 @@
 
 Понедельничный обед закрыт оставшейся с прошлой недели [Пастой с индейкой и томатным соусом](../../recipes/lunches/pasta-s-indeykoy-i-tomatnym-sousom/README.md) (`lunch/pasta_s_indeykoy_i_tomatnym_sousom`).
 Яблоки в этой неделе считаются из текущего запаса и в закупки не включены.
+В воскресенье на второй перекус лучше взять банан как фрукт для [Кефира и фрукта](../../recipes/snacks/kefir-i-frukt/README.md), а ужин отдать [Фрикаделькам из индейки с рисом и томатным соусом](../../recipes/dinners/frikadelki-iz-indeyki-s-risom-i-tomatnym-sousom/README.md) (`dinner/frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom`), чтобы не собирать три подряд ужина на курице с рисом.
 
-Средний день по неделе: примерно 2134 ккал.
-Средние БЖУ по неделе: примерно Б 170 г / Ж 73 г / У 193 г.
+Средний день по неделе: примерно 2158 ккал.
+Средние БЖУ по неделе: примерно Б 172 г / Ж 73 г / У 199 г.
 
 ## Понедельник
 
@@ -19,16 +20,16 @@
 ## Вторник
 
 - Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 441 ккал (Б 25 г / Ж 18 г / У 42 г)
-- Перекус 1: [Тост с ветчиной из индейки](../../recipes/snacks/tost-s-vetchinoy-iz-indeyki/README.md) (`snack/tost_s_vetchinoy_iz_indeyki`) — 1 порция, 286 ккал (Б 27 г / Ж 6 г / У 29 г)
+- Перекус 1: [Тост с ветчиной из индейки](../../recipes/snacks/tost-s-vetchinoy-iz-indeyki/README.md) (`snack/tost_s_vetchinoy_iz_indeyki`) — 1 порция, 357 ккал (Б 30 г / Ж 7 г / У 42 г)
 - Обед: [Креветки с рисом и овощами](../../recipes/lunches/krevetki-s-risom-i-ovoshchami/README.md) (`lunch/krevetki_s_risom_i_ovoshchami`) — 1 порция, 593 ккал (Б 48 г / Ж 16 г / У 67 г)
 - Перекус 2: [Яйца вкрутую, огурец и тост](../../recipes/snacks/yaytsa-vkrutuyu-ogurets/README.md) (`snack/yaytsa_vkrutuyu_ogurets`) — 1 порция, 267 ккал (Б 17 г / Ж 11 г / У 23 г)
 - Ужин: [Тёплый салат с курицей и картофелем](../../recipes/dinners/teplyy-salat-s-kuritsey/README.md) (`dinner/teplyy_salat_kuritsa`) — 1 порция, 622 ккал (Б 64 г / Ж 22 г / У 38 г)
-- Итого за день: 2209 ккал (Б 181 г / Ж 73 г / У 199 г)
+- Итого за день: 2280 ккал (Б 184 г / Ж 74 г / У 212 г)
 
 ## Среда
 
 - Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 441 ккал (Б 25 г / Ж 18 г / У 42 г)
-- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/grecheskiy-yogurt-s-granoloy-i-yagodami/README.md) (`snack/grecheskiy_yogurt_s_granoloy_i_yagodami`) — 1 порция, 237 ккал (Б 17 г / Ж 6 г / У 28 г)
+- Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 206 ккал (Б 10 г / Ж 3 г / У 37 г)
 - Обед: [Креветки с рисом и овощами](../../recipes/lunches/krevetki-s-risom-i-ovoshchami/README.md) (`lunch/krevetki_s_risom_i_ovoshchami`) — 1 порция, 593 ккал (Б 48 г / Ж 16 г / У 67 г)
 - Перекус 2: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 206 ккал (Б 10 г / Ж 3 г / У 37 г)
 - Ужин: [Омлет с сыром и овощами](../../recipes/dinners/omlet-s-syrom-i-ovoshchami/README.md) (`dinner/omlet_syrom_ovoshchami`) — 1 порция, 424 ккал (Б 31 г / Ж 30 г / У 7 г)
@@ -38,12 +39,12 @@
 ## Четверг
 
 - Завтрак: [Тосты с лососем](../../recipes/breakfasts/tosty-s-lososem/README.md) (`breakfast/tosty_s_lososem`) — 1 порция, 441 ккал (Б 25 г / Ж 18 г / У 42 г)
-- Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 206 ккал (Б 10 г / Ж 3 г / У 37 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/grecheskiy-yogurt-s-granoloy-i-yagodami/README.md) (`snack/grecheskiy_yogurt_s_granoloy_i_yagodami`) — 1 порция, 237 ккал (Б 17 г / Ж 6 г / У 28 г)
 - Обед: [Креветки с рисом и овощами](../../recipes/lunches/krevetki-s-risom-i-ovoshchami/README.md) (`lunch/krevetki_s_risom_i_ovoshchami`) — 1 порция, 593 ккал (Б 48 г / Ж 16 г / У 67 г)
-- Перекус 2: [Тост с ветчиной из индейки](../../recipes/snacks/tost-s-vetchinoy-iz-indeyki/README.md) (`snack/tost_s_vetchinoy_iz_indeyki`) — 1 порция, 286 ккал (Б 27 г / Ж 6 г / У 29 г)
+- Перекус 2: [Тост с ветчиной из индейки](../../recipes/snacks/tost-s-vetchinoy-iz-indeyki/README.md) (`snack/tost_s_vetchinoy_iz_indeyki`) — 1 порция, 357 ккал (Б 30 г / Ж 7 г / У 42 г)
 - Ужин: [Тёплый салат с курицей и картофелем](../../recipes/dinners/teplyy-salat-s-kuritsey/README.md) (`dinner/teplyy_salat_kuritsa`) — 1 порция, 622 ккал (Б 64 г / Ж 22 г / У 38 г)
 - Дополнительно: Изолят на воде — 1 порция, 105 ккал (Б 25 г / Ж 0.4 г / У 0.3 г)
-- Итого за день: 2253 ккал (Б 199 г / Ж 65.4 г / У 213.3 г)
+- Итого за день: 2324 ккал (Б 202 г / Ж 66.4 г / У 226.3 г)
 
 ## Пятница
 
@@ -51,9 +52,9 @@
 - Перекус 1: [Яблоко, орехи и йогурт](../../recipes/snacks/yabloko-orekhi/README.md) (`snack/yabloko_orekhi`) — 1 порция, 228 ккал (Б 14 г / Ж 8 г / У 27 г)
 - Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 535 ккал (Б 33 г / Ж 25 г / У 45 г)
 - Перекус 2: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/grecheskiy-yogurt-s-granoloy-i-yagodami/README.md) (`snack/grecheskiy_yogurt_s_granoloy_i_yagodami`) — 1 порция, 237 ккал (Б 17 г / Ж 6 г / У 28 г)
-- Ужин: [Тёплый салат с курицей и картофелем](../../recipes/dinners/teplyy-salat-s-kuritsey/README.md) (`dinner/teplyy_salat_kuritsa`) — 1 порция, 622 ккал (Б 64 г / Ж 22 г / У 38 г)
+- Ужин: [Курица с овощами и рисом на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) — 1 порция, 540 ккал (Б 53 г / Ж 10 г / У 54 г)
 - Дополнительно: Изолят на воде — 1 порция, 105 ккал (Б 25 г / Ж 0.4 г / У 0.3 г)
-- Итого за день: 2152 ккал (Б 185 г / Ж 73.4 г / У 181.3 г)
+- Итого за день: 2070 ккал (Б 174 г / Ж 61.4 г / У 197.3 г)
 
 ## Суббота
 
@@ -68,11 +69,12 @@
 ## Воскресенье
 
 - Завтрак: [Яйца и тост](../../recipes/breakfasts/yaytsa-i-tost/README.md) (`breakfast/yaytsa_i_tost`) — 1 порция, 551 ккал (Б 32 г / Ж 28 г / У 40 г)
-- Перекус 1: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция, 206 ккал (Б 10 г / Ж 3 г / У 37 г)
+- Перекус 1: [Греческий йогурт с гранолой и ягодами](../../recipes/snacks/grecheskiy-yogurt-s-granoloy-i-yagodami/README.md) (`snack/grecheskiy_yogurt_s_granoloy_i_yagodami`) — 1 порция, 237 ккал (Б 17 г / Ж 6 г / У 28 г)
 - Обед: [Картошка с куриными бёдрами](../../recipes/lunches/kartoshka-kurinye-bedra/README.md) (`lunch/kartoshka_kurinye_bedra`) — 1 порция, 535 ккал (Б 33 г / Ж 25 г / У 45 г)
-- Перекус 2: [Тост с ветчиной из индейки](../../recipes/snacks/tost-s-vetchinoy-iz-indeyki/README.md) (`snack/tost_s_vetchinoy_iz_indeyki`) — 1 порция, 286 ккал (Б 27 г / Ж 6 г / У 29 г)
-- Ужин: [Курица с овощами и рисом на сковороде](../../recipes/dinners/kuritsa-ovoshchi-skovoroda/README.md) (`dinner/kuritsa_ovoshchi_skovoroda`) — 1 порция, 540 ккал (Б 53 г / Ж 10 г / У 54 г)
-- Итого за день: 2118 ккал (Б 155 г / Ж 72 г / У 205 г)
+- Перекус 2: [Кефир и фрукт](../../recipes/snacks/kefir-i-frukt/README.md) (`snack/kefir_i_frukt`) — 1 порция (фрукт: банан), 206 ккал (Б 10 г / Ж 3 г / У 37 г)
+- Ужин: [Фрикадельки из индейки с рисом и томатным соусом](../../recipes/dinners/frikadelki-iz-indeyki-s-risom-i-tomatnym-sousom/README.md) (`dinner/frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom`) — 1 порция, 603 ккал (Б 53 г / Ж 16 г / У 58 г)
+- Дополнительно: Изолят на воде — 1 порция, 105 ккал (Б 25 г / Ж 0.4 г / У 0.3 г)
+- Итого за день: 2237 ккал (Б 170 г / Ж 78.4 г / У 208.3 г)
 
 ## План закупок
 
