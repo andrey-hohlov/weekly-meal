@@ -1,28 +1,28 @@
 id: teplyy_salat_kuritsa
 name: Тёплый салат с курицей и картофелем
 meal_type: dinner
-servings: 1
+servings: 2
 prep_time_minutes: 15
 ingredients:
 - key: chicken_breast
   name: Куриное филе
-  amount: 250
+  amount: 400
   unit: g
 - key: potato
   name: Картофель
-  amount: 180
+  amount: 250
   unit: g
 - key: lettuce
   name: Листья салата
-  amount: 60
+  amount: 120
   unit: g
 - key: tomato
   name: Помидор
-  amount: 120
+  amount: 240
   unit: g
 - key: cream_cheese
   name: Творожный сыр
-  amount: 30
+  amount: 80
   unit: g
 - key: olive_oil
   name: Оливковое масло
@@ -30,7 +30,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 622
-  protein_g: 64
-  fat_g: 22
-  carbs_g: 38
+  calories: 509
+  protein_g: 52
+  fat_g: 19
+  carbs_g: 29
