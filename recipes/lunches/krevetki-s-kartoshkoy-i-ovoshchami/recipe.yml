@@ -1,0 +1,60 @@
+id: krevetki_s_kartoshkoy_i_ovoshchami
+name: Креветки с картофелем и овощами
+meal_type: lunch
+servings: 3
+prep_time_minutes: 25
+ingredients:
+  - key: shrimp_peeled
+    name: Креветки очищенные
+    amount: 450
+    unit: g
+  - key: potato
+    name: Картофель
+    amount: 1100
+    unit: g
+  - key: zucchini
+    name: Кабачок
+    amount: 300
+    unit: g
+  - key: bell_pepper
+    name: Болгарский перец
+    amount: 180
+    unit: g
+  - key: greek_yogurt_lactose_free
+    name: Йогурт греческий безлактозный
+    amount: 180
+    unit: g
+  - key: greens
+    name: Зелень
+    amount: 15
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 45
+    unit: g
+    pantry: true
+  - key: mustard
+    name: Горчица
+    amount: 24
+    unit: g
+    pantry: true
+  - key: paprika
+    name: Паприка
+    amount: 5
+    unit: g
+    pantry: true
+  - key: garlic_powder
+    name: Сухой чеснок
+    amount: 4
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 2
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 624
+  protein_g: 48
+  fat_g: 18
+  carbs_g: 68

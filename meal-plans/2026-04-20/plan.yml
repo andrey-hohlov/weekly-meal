@@ -1,0 +1,147 @@
+days:
+  - day: monday
+    breakfast:
+      recipe_id: tosty_s_vetchinoy_iz_indeyki
+      servings: 1
+    snack_1:
+      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: yaytsa_vkrutuyu_ogurets
+      servings: 1
+    dinner:
+      recipe_id: losos_ovoshchi
+      servings: 1
+
+  - day: tuesday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: kefir_i_frukt
+      servings: 1
+    lunch:
+      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      servings: 1
+    snack_2:
+      recipe_id: yaytsa_vkrutuyu_ogurets
+      servings: 1
+    dinner:
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3
+
+  - day: wednesday
+    breakfast:
+      recipe_id: tosty_s_lososem
+      servings: 1
+    snack_1:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    lunch:
+      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      servings: 1
+    snack_2:
+      recipe_id: yaytsa_vkrutuyu_ogurets
+      servings: 1
+    dinner:
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3
+
+  - day: thursday
+    breakfast:
+      recipe_id: ovsyanka_s_bananom
+      servings: 1
+    snack_1:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    lunch:
+      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      servings: 1
+    snack_2:
+      recipe_id: tost_losos
+      servings: 1
+    dinner:
+      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3
+
+  - day: friday
+    breakfast:
+      recipe_id: ovsyanka_s_bananom
+      servings: 1
+    snack_1:
+      recipe_id: banan_arakhisovaya_pasta
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: yaytsa_vkrutuyu_ogurets
+      servings: 1
+    dinner:
+      recipe_id: teplyy_salat_kuritsa
+      servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3
+
+  - day: saturday
+    breakfast:
+      recipe_id: yaytsa_i_tost
+      servings: 1
+    snack_1:
+      recipe_id: banan_arakhisovaya_pasta
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: kefir_i_frukt
+      servings: 1
+    dinner:
+      recipe_id: teplyy_salat_kuritsa
+      servings: 1
+
+  - day: sunday
+    breakfast:
+      recipe_id: yaytsa_i_tost
+      servings: 1
+    snack_1:
+      recipe_id: yabloko_orekhi
+      servings: 1
+    lunch:
+      recipe_id: kuritsa_ris_ovoshchi
+      servings: 1
+    snack_2:
+      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
+      servings: 1
+    dinner:
+      recipe_id: losos_ovoshchi
+      servings: 1
