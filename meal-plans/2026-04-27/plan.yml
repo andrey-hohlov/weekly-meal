@@ -1,20 +1,27 @@
 days:
   - day: monday
     breakfast:
-      recipe_id: tosty_s_vetchinoy_iz_indeyki
+      recipe_id: tosty_s_lososem
       servings: 1
     snack_1:
-      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
+      recipe_id: yabloko_orekhi
       servings: 1
     lunch:
-      recipe_id: kuritsa_ris_ovoshchi
+      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
       servings: 1
     snack_2:
       recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
-      recipe_id: losos_ovoshchi
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3
 
   - day: tuesday
     breakfast:
@@ -24,13 +31,13 @@ days:
       recipe_id: kefir_i_frukt
       servings: 1
     lunch:
-      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      recipe_id: govyadina_s_zelenoy_grechkoy
       servings: 1
     snack_2:
-      recipe_id: yaytsa_vkrutuyu_ogurets
+      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
       servings: 1
     dinner:
-      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
     protein_addition:
       name: Изолят на воде
@@ -45,24 +52,17 @@ days:
       recipe_id: tosty_s_lososem
       servings: 1
     snack_1:
-      recipe_id: yabloko_orekhi
+      recipe_id: banan_arakhisovaya_pasta
       servings: 1
     lunch:
-      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      recipe_id: govyadina_s_zelenoy_grechkoy
       servings: 1
     snack_2:
       recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
-      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      recipe_id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
       servings: 1
-    protein_addition:
-      name: Изолят на воде
-      servings: 1
-      calories: 105
-      protein_g: 25
-      fat_g: 0.4
-      carbs_g: 0.3
 
   - day: thursday
     breakfast:
@@ -72,37 +72,30 @@ days:
       recipe_id: yabloko_orekhi
       servings: 1
     lunch:
-      recipe_id: krevetki_s_kartoshkoy_i_ovoshchami
+      recipe_id: govyadina_s_zelenoy_grechkoy
       servings: 1
     snack_2:
-      recipe_id: tost_losos
+      recipe_id: tost_s_vetchinoy_iz_indeyki
       servings: 1
     dinner:
-      recipe_id: kuritsa_ris_bryusselskaya_kapusta
+      recipe_id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
       servings: 1
-    protein_addition:
-      name: Изолят на воде
-      servings: 1
-      calories: 105
-      protein_g: 25
-      fat_g: 0.4
-      carbs_g: 0.3
 
   - day: friday
     breakfast:
       recipe_id: ovsyanka_s_bananom
       servings: 1
     snack_1:
-      recipe_id: banan_arakhisovaya_pasta
+      recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
       servings: 1
     lunch:
-      recipe_id: kuritsa_ris_ovoshchi
+      recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: yaytsa_vkrutuyu_ogurets
+      recipe_id: kefir_i_frukt
       servings: 1
     dinner:
-      recipe_id: teplyy_salat_kuritsa
+      recipe_id: forel_s_risom
       servings: 1
     protein_addition:
       name: Изолят на воде
@@ -114,19 +107,19 @@ days:
 
   - day: saturday
     breakfast:
-      recipe_id: yaytsa_i_tost
+      recipe_id: tosty_s_vetchinoy_iz_indeyki
       servings: 1
     snack_1:
       recipe_id: banan_arakhisovaya_pasta
       servings: 1
     lunch:
-      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
+      recipe_id: pasta_boloneze
       servings: 1
     snack_2:
-      recipe_id: kefir_i_frukt
+      recipe_id: yabloko_orekhi
       servings: 1
     dinner:
-      recipe_id: teplyy_salat_kuritsa
+      recipe_id: forel_s_risom
       servings: 1
 
   - day: sunday
@@ -134,14 +127,21 @@ days:
       recipe_id: yaytsa_i_tost
       servings: 1
     snack_1:
-      recipe_id: yabloko_orekhi
-      servings: 1
-    lunch:
-      recipe_id: pasta_s_indeykoy_i_tomatnym_sousom
-      servings: 1
-    snack_2:
       recipe_id: grecheskiy_yogurt_s_granoloy_i_yagodami
       servings: 1
-    dinner:
-      recipe_id: dorado_s_kartofelem
+    lunch:
+      recipe_id: pasta_boloneze
       servings: 1
+    snack_2:
+      recipe_id: kefir_i_frukt
+      servings: 1
+    dinner:
+      recipe_id: roti_s_indeykoy_i_syrom
+      servings: 1
+    protein_addition:
+      name: Изолят на воде
+      servings: 1
+      calories: 105
+      protein_g: 25
+      fat_g: 0.4
+      carbs_g: 0.3

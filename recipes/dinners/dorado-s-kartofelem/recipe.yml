@@ -1,0 +1,38 @@
+id: dorado_s_kartofelem
+name: Дорадо с картофелем
+meal_type: dinner
+servings: 2
+prep_time_minutes: 30
+ingredients:
+  - key: dorado_whole
+    name: Дорадо целая
+    amount: 600
+    unit: g
+  - key: potato
+    name: Картофель
+    amount: 500
+    unit: g
+  - key: lemon
+    name: Лимон
+    amount: 50
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 10
+    unit: g
+    pantry: true
+  - key: salt
+    name: Соль
+    amount: 3
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 1
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 394
+  protein_g: 30
+  fat_g: 9
+  carbs_g: 40

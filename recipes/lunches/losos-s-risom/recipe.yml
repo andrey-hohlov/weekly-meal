@@ -1,5 +1,5 @@
 id: losos_s_risom
-name: Лосось с рисом и брокколи
+name: Лосось с рисом и овощами
 meal_type: lunch
 servings: 2
 prep_time_minutes: 20
@@ -12,9 +12,13 @@ ingredients:
   name: Рис
   amount: 180
   unit: g
-- key: broccoli
-  name: Брокколи
-  amount: 150
+- key: zucchini
+  name: Кабачок
+  amount: 200
+  unit: g
+- key: bell_pepper
+  name: Болгарский перец
+  amount: 160
   unit: g
 - key: lemon
   name: Лимон
@@ -26,7 +30,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 714
-  protein_g: 39
+  calories: 722
+  protein_g: 40
   fat_g: 26
-  carbs_g: 77
+  carbs_g: 80

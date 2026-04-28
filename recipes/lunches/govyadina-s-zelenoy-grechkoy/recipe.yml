@@ -1,0 +1,51 @@
+id: govyadina_s_zelenoy_grechkoy
+name: Тушёная говядина с зелёной гречкой
+meal_type: lunch
+servings: 3
+prep_time_minutes: 70
+ingredients:
+  - key: beef_lean
+    name: Говядина для тушения
+    amount: 600
+    unit: g
+  - key: green_buckwheat
+    name: Зелёная гречка
+    amount: 240
+    unit: g
+  - key: onion
+    name: Лук
+    amount: 120
+    unit: g
+  - key: carrot
+    name: Морковь
+    amount: 120
+    unit: g
+  - key: tomato_sauce
+    name: Томатный соус
+    amount: 180
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 10
+    unit: g
+    pantry: true
+  - key: paprika
+    name: Паприка
+    amount: 4
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 2
+    unit: g
+    pantry: true
+  - key: salt
+    name: Соль
+    amount: 5
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 610
+  protein_g: 52
+  fat_g: 16
+  carbs_g: 58

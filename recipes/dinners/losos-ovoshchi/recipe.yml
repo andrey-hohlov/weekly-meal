@@ -8,13 +8,13 @@ ingredients:
   name: Филе лосося
   amount: 160
   unit: g
-- key: broccoli
-  name: Брокколи
-  amount: 200
+- key: bell_pepper
+  name: Болгарский перец
+  amount: 160
   unit: g
 - key: zucchini
   name: Кабачок
-  amount: 150
+  amount: 200
   unit: g
 - key: potato
   name: Картофель
@@ -30,7 +30,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 683
+  calories: 691
   protein_g: 45
   fat_g: 27
-  carbs_g: 65
+  carbs_g: 68
