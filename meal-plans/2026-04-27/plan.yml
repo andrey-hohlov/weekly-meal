@@ -13,7 +13,7 @@ days:
       recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
-      recipe_id: kuritsa_ovoshchi_skovoroda
+      recipe_id: dorado_s_kartofelem
       servings: 1
     protein_addition:
       name: Изолят на воде
@@ -61,7 +61,7 @@ days:
       recipe_id: yaytsa_vkrutuyu_ogurets
       servings: 1
     dinner:
-      recipe_id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
+      recipe_id: kuritsa_ovoshchi_skovoroda
       servings: 1
 
   - day: thursday
@@ -95,7 +95,7 @@ days:
       recipe_id: kefir_i_frukt
       servings: 1
     dinner:
-      recipe_id: forel_s_risom
+      recipe_id: frikadelki_iz_indeyki_s_risom_i_tomatnym_sousom
       servings: 1
     protein_addition:
       name: Изолят на воде
@@ -136,7 +136,7 @@ days:
       recipe_id: kefir_i_frukt
       servings: 1
     dinner:
-      recipe_id: roti_s_indeykoy_i_syrom
+      recipe_id: forel_s_risom
       servings: 1
     protein_addition:
       name: Изолят на воде
