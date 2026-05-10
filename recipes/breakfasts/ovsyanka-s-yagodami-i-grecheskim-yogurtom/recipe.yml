@@ -1,0 +1,32 @@
+id: ovsyanka_s_yagodami_i_grecheskim_yogurtom
+name: Овсянка с ягодами и греческим йогуртом
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 7
+ingredients:
+  - key: oats
+    name: Овсяные хлопья
+    amount: 45
+    unit: g
+  - key: milk_lactose_free
+    name: Молоко безлактозное
+    amount: 200
+    unit: ml
+  - key: greek_yogurt_lactose_free
+    name: Греческий йогурт безлактозный
+    amount: 170
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 100
+    unit: g
+  - key: honey
+    name: Мёд
+    amount: 5
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 442
+  protein_g: 30
+  fat_g: 10
+  carbs_g: 59

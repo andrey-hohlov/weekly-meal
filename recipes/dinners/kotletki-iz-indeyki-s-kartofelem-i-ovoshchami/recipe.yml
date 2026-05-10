@@ -1,0 +1,63 @@
+id: kotletki_iz_indeyki_s_kartofelem_i_ovoshchami
+name: Котлетки из индейки с картофелем и овощами
+meal_type: dinner
+servings: 2
+prep_time_minutes: 35
+ingredients:
+  - key: turkey_mince
+    name: Фарш индейки нежирный
+    amount: 400
+    unit: g
+  - key: potato
+    name: Картофель
+    amount: 450
+    unit: g
+  - key: zucchini
+    name: Кабачок
+    amount: 200
+    unit: g
+  - key: carrot
+    name: Морковь
+    amount: 100
+    unit: g
+  - key: eggs
+    name: Яйцо
+    amount: 1
+    unit: pcs
+  - key: breadcrumbs
+    name: Панировочные сухари
+    amount: 25
+    unit: g
+  - key: cucumber
+    name: Огурец
+    amount: 200
+    unit: g
+  - key: greens
+    name: Зелень
+    amount: 20
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 10
+    unit: g
+    pantry: true
+  - key: salt
+    name: Соль
+    amount: 4
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 2
+    unit: g
+    pantry: true
+  - key: dried_herbs
+    name: Сушёные травы
+    amount: 3
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 548
+  protein_g: 46
+  fat_g: 18
+  carbs_g: 51

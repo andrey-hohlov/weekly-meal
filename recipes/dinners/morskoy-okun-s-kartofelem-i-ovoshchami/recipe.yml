@@ -1,0 +1,46 @@
+id: morskoy_okun_s_kartofelem_i_ovoshchami
+name: Морской окунь с картофелем и овощами
+meal_type: dinner
+servings: 2
+prep_time_minutes: 30
+ingredients:
+  - key: sea_bass_fillet_skin_on
+    name: Филе морского окуня на коже
+    amount: 400
+    unit: g
+  - key: potato
+    name: Картофель
+    amount: 500
+    unit: g
+  - key: white_cabbage
+    name: Белокочанная капуста
+    amount: 400
+    unit: g
+  - key: carrot
+    name: Морковь
+    amount: 100
+    unit: g
+  - key: lemon
+    name: Лимон
+    amount: 50
+    unit: g
+  - key: olive_oil
+    name: Оливковое масло
+    amount: 20
+    unit: g
+    pantry: true
+  - key: salt
+    name: Соль
+    amount: 3
+    unit: g
+    pantry: true
+  - key: black_pepper
+    name: Чёрный перец
+    amount: 1
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 555
+  protein_g: 44
+  fat_g: 14
+  carbs_g: 58

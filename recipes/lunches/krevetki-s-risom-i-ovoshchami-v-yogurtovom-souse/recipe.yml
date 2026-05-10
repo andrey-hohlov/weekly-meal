@@ -1,51 +1,59 @@
-id: krevetki_s_kartoshkoy_i_ovoshchami
-name: Креветки с картофелем и овощами
+id: krevetki_s_risom_i_ovoshchami_v_yogurtovom_souse
+name: Креветки с рисом и овощами в йогуртовом соусе
 meal_type: lunch
 servings: 3
-prep_time_minutes: 25
+prep_time_minutes: 30
 ingredients:
   - key: shrimp_peeled
     name: Креветки очищенные
-    amount: 450
+    amount: 540
     unit: g
-  - key: potato
-    name: Картофель
-    amount: 1100
+  - key: rice
+    name: Рис
+    amount: 240
     unit: g
   - key: zucchini
     name: Кабачок
-    amount: 300
+    amount: 360
     unit: g
   - key: bell_pepper
     name: Болгарский перец
+    amount: 240
+    unit: g
+  - key: green_peas
+    name: Зелёный горошек
     amount: 180
     unit: g
   - key: greek_yogurt_lactose_free
     name: Йогурт греческий безлактозный
-    amount: 180
+    amount: 210
     unit: g
   - key: greens
     name: Зелень
-    amount: 15
+    amount: 20
+    unit: g
+  - key: lemon
+    name: Лимон
+    amount: 45
     unit: g
   - key: olive_oil
     name: Оливковое масло
-    amount: 45
+    amount: 36
     unit: g
     pantry: true
-  - key: mustard
-    name: Горчица
+  - key: soy_sauce
+    name: Соевый соус
     amount: 24
-    unit: g
-    pantry: true
-  - key: paprika
-    name: Паприка
-    amount: 5
-    unit: g
+    unit: ml
     pantry: true
   - key: garlic_powder
     name: Сухой чеснок
-    amount: 4
+    amount: 3
+    unit: g
+    pantry: true
+  - key: dill
+    name: Укроп сушёный
+    amount: 2
     unit: g
     pantry: true
   - key: black_pepper
@@ -54,7 +62,7 @@ ingredients:
     unit: g
     pantry: true
 nutrition_per_serving:
-  calories: 624
-  protein_g: 48
-  fat_g: 18
-  carbs_g: 68
+  calories: 648
+  protein_g: 51
+  fat_g: 15
+  carbs_g: 73

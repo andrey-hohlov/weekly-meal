@@ -1,0 +1,40 @@
+id: lavash_s_indeykoy_yaytsom_i_ovoshchami
+name: Лаваш с индейкой, яйцом и овощами
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 10
+ingredients:
+  - key: lavash_armenian
+    name: Армянский лаваш
+    amount: 80
+    unit: g
+  - key: turkey_ham
+    name: Ветчина из индейки
+    amount: 100
+    unit: g
+  - key: eggs
+    name: Яйцо
+    amount: 1
+    unit: pcs
+  - key: tomato
+    name: Помидор
+    amount: 80
+    unit: g
+  - key: cucumber
+    name: Огурец
+    amount: 80
+    unit: g
+  - key: greens
+    name: Зелень
+    amount: 10
+    unit: g
+  - key: oil_cooking
+    name: Масло для жарки
+    amount: 3
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 450
+  protein_g: 33
+  fat_g: 12
+  carbs_g: 49
