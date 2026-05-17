@@ -20,6 +20,10 @@ ingredients:
   name: Лук
   amount: 120
   unit: g
+- key: tomato
+  name: Помидор
+  amount: 200
+  unit: g
 - key: soy_sauce
   name: Соевый соус
   amount: 20
@@ -31,7 +35,7 @@ ingredients:
   unit: g
   pantry: true
 nutrition_per_serving:
-  calories: 614
-  protein_g: 57
+  calories: 626
+  protein_g: 58
   fat_g: 8
-  carbs_g: 70
+  carbs_g: 73

@@ -1,0 +1,28 @@
+id: tvorog_s_yagodami_i_tostom
+name: Творог с ягодами и тостом
+meal_type: breakfast
+servings: 1
+prep_time_minutes: 5
+ingredients:
+  - key: tvorog_lactose_free
+    name: Творог безлактозный
+    amount: 200
+    unit: g
+  - key: bread_wholegrain
+    name: Хлеб цельнозерновой
+    amount: 60
+    unit: g
+  - key: berries
+    name: Ягоды
+    amount: 100
+    unit: g
+  - key: honey
+    name: Мёд
+    amount: 10
+    unit: g
+    pantry: true
+nutrition_per_serving:
+  calories: 470
+  protein_g: 41
+  fat_g: 12
+  carbs_g: 53

@@ -50,6 +50,9 @@
           },
           "dinner": {
             "$ref": "#/$defs/mealRef"
+          },
+          "protein_addition": {
+            "$ref": "#/$defs/proteinAddition"
           }
         }
       }
@@ -117,6 +120,44 @@
         "note": {
           "type": "string",
           "minLength": 1
+        }
+      }
+    },
+    "proteinAddition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "servings",
+        "calories",
+        "protein_g",
+        "fat_g",
+        "carbs_g"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "servings": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "calories": {
+          "type": "number",
+          "minimum": 0
+        },
+        "protein_g": {
+          "type": "number",
+          "minimum": 0
+        },
+        "fat_g": {
+          "type": "number",
+          "minimum": 0
+        },
+        "carbs_g": {
+          "type": "number",
+          "minimum": 0
         }
       }
     }
